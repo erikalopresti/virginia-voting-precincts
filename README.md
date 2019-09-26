@@ -1,6 +1,7 @@
 # virginia-voting-precincts
 ## Virginia voting precinct maps 2011-2020
 The 2019-2020 maps reflect the Virginia voting precinct boundaries for the 2019 June Primary, 2019 November General, 2020 March Presidential Primary, 2020 June Primary, and 2020 November General Elections. Shapefiles will be added for all election years from 2011-2020.
+![image](https://user-images.githubusercontent.com/20375915/65660713-886bd900-dffd-11e9-9900-0574487f37df.png)
 * Encoding: EPSG 4269
 ### Attributes
 * precinctID - Eight digit number consisting of the county FIPS code from the US Census Bureau concatenated with the precinct code. This is a unique number for every precinct within a given election.
