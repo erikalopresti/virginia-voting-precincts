@@ -21,6 +21,7 @@ The 2019-2020 maps reflect the Virginia voting precinct boundaries for the 2019 
 * lastChange - Last known change to the precinct boundaries, name or number.
 ## Split Precinct Maps
 Virginia has many election precincts that are split by Congressional, State Senate, or House of Delegates district boundaries. These maps are the same as the voting precinct shapefiles, but split precincts are shown as separate features so that election results can be mapped by both precinct and district.
+![image](https://user-images.githubusercontent.com/20375915/65730807-2e1c5800-e091-11e9-8e02-c69e6baa6571.png)
 ### Attributes for split precinct maps
 * distSplits - District splits within the precinct.
 * hdPrecinct - For maps showing precincts split by House of Delegates district boundaries. Unique identifyer (House of Delegates district number concatenated with precinctID) for each precinct or precinct split portion.
