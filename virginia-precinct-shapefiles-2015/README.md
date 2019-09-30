@@ -29,15 +29,15 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 * cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.  
 ## Precinct Changes for 2015
 ### 23 Botetourt County
-2/24/2015 - County-wide precinct realignment.  
-    Roaring Run (303), Springwood (304), Courthouse (402), Glen Wilton (404), Oriskany (405), Town Hall (406), and Coyner Springs (501) eliminated.  
-    Amsterdam (101) - Renamed to Daleville (101).   
-    Asbury (102) - Renamed to Greenfield (102).  
-    Buchanan (301) - Gained voters from Roaring Run (303) and Springwood (304) precints.  
-    Mill Creek (302) - Gained voters from Buchanan (301) and Springwood (304) precints.  
-    Eagle Rock (403) - Gained voters from Glen Wilton (404) precinct.  
-    Fincastle (406) - Created from the merger of Courthouse (402), Town Hall (406), and Oriskany (405) precincts.  
-    Troutville (501) - Gained voters from Coyner Springs (501) precinct.      
+- 2/24/2015 County-wide precinct realignment.  
+	- Roaring Run (303), Springwood (304), Courthouse (402), Glen Wilton (404), Oriskany (405), Town Hall (406), and Coyner Springs (501) eliminated.  
+	- Amsterdam (101) - Renamed to Daleville (101).  
+	- Asbury (102) - Renamed to Greenfield (102).  
+	- Buchanan (301) - Gained voters from Roaring Run (303) and Springwood (304) precints.  
+	- Mill Creek (302) - Gained voters from Buchanan (301) and Springwood (304) precints.  
+	- Eagle Rock (403) - Gained voters from Glen Wilton (404) precinct.  
+	- Fincastle (406) - Created from the merger of Courthouse (402), Town Hall (406), and Oriskany (405) precincts.  
+	- Troutville (501) - Gained voters from Coyner Springs (501) precinct.      
 ### 45 Craig County
 7/2/2015 - Three precincts eliminated and merged with surrounding precincts.  
     North Mountain (202) precinct eliminated in merger with Ammendale (201) precinct.  
