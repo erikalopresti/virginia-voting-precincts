@@ -60,13 +60,22 @@ In 2018, Virginia had 22 precincts split by Congressional district boundaries. T
 	- Salem Woods (99) precinct created from split of Rosemont Forest (64) precinct.
 	- Sandbridge (100) precinct created from split of Sigma (31) precinct.
 ## Sources
-Albemarle Board of Supervisors. Ordinance No. 18-2(2), 2 § (2018). Charlottesville, Virginia: Albemarle County Code. Retrieved from https://library.municode.com/va/albemarle_county/ordinances/code_of_ordinances?nodeId=978605..
-Bedford County Board of Supervisors. (2018, March 12). Meeting minutes, motion to approve Ordinance #O 031218-03. Retrieved from https://www.bedfordcountyva.gov/Home/ShowDocument?id=6387..
-Boothe, C. (2018, June 25). Tazewell advancing plan to consolidate several voting precincts. Retrieved from https://www.bdtonline.com/news/local_news/tazewell-advancing-plan-to-consolidate-several-voting-precincts/article_fc26a606-168b-5d5c-a475-1b61f35a538b.html..
-Chittum, M. (2017, December 18). Roanoke City Council votes to eliminate Virginia Heights-Norwich voting precinct. Retrieved from https://www.roanoke.com/news/local/roanoke-city-council-votes-to-eliminate-virginia-heights-norwich-voting/article_a2bd900d-4709-5090-9db4-169578dfa225.html..
-Loudoun County Board of Supervisors. (2018, March 22). Proposed Amendments to Chapter 209 of the Codified Ordinances of Loudoun County/Voting Precincts and Polling Places. Retrieved from http://loudoun.granicus.com/MetaViewer.php?view_id=74&clip_id=5402&meta_id=139847..
-Proposed Roanoke Voting Precinct Changes. (2017, December 17). Retrieved from https://www.roanoke.com/proposed-roanoke-voting-precinct-changes/pdf_12c57448-4e25-50ee-8725-ca626cb75880.html..
-Richmond City Council. Precinct 115, 9-67.1 § (2018). Richmond, Virginia: Code of the City of Richmond. Retrieved from https://library.municode.com/va/richmond/codes/code_of_ordinances?nodeId=PTIICICO_CH9EL_ARTIIIPR_S9-67.1PR115..
-Rockingham County Board of Supervisors. Ordinance No. PCO 18-10, 6A-6–7 § (2018). Harrisonburg, Virginia: Rockingham County Code. Retrieved from https://library.municode.com/va/rockingham_county/ordinances/code_of_ordinances?nodeId=909700..
-Skelton, A. (2018, March 22). Two new polling places being added in Virginia Beach to deal with more voters. Retrieved from https://www.pilotonline.com/government/local/article_f065a0f0-2bad-11e8-a027-37eee602651f.html..
-Wrabel, A. (2018, March 14). Albemarle supervisors OK changes to some voting precincts. Retrieved from https://www.dailyprogress.com/news/local/albemarle-supervisors-ok-changes-to-some-voting-precincts/article_49186dc8-27f2-11e8-a426-9fcb0dc095f6.html..
+Albemarle Board of Supervisors. Ordinance No. 18-2(2), 2 § (2018). Charlottesville, Virginia: Albemarle County Code. Retrieved from https://library.municode.com/va/albemarle_county/ordinances/code_of_ordinances?nodeId=978605
+
+Bedford County Board of Supervisors. (2018, March 12). Meeting minutes, motion to approve Ordinance #O 031218-03. Retrieved from https://www.bedfordcountyva.gov/Home/ShowDocument?id=6387
+
+Boothe, C. (2018, June 25). Tazewell advancing plan to consolidate several voting precincts. Retrieved from https://www.bdtonline.com/news/local_news/tazewell-advancing-plan-to-consolidate-several-voting-precincts/article_fc26a606-168b-5d5c-a475-1b61f35a538b.html
+
+Chittum, M. (2017, December 18). Roanoke City Council votes to eliminate Virginia Heights-Norwich voting precinct. Retrieved from https://www.roanoke.com/news/local/roanoke-city-council-votes-to-eliminate-virginia-heights-norwich-voting/article_a2bd900d-4709-5090-9db4-169578dfa225.html
+
+Loudoun County Board of Supervisors. (2018, March 22). Proposed Amendments to Chapter 209 of the Codified Ordinances of Loudoun County/Voting Precincts and Polling Places. Retrieved from http://loudoun.granicus.com/MetaViewer.php?view_id=74&clip_id=5402&meta_id=139847
+
+Proposed Roanoke Voting Precinct Changes. (2017, December 17). Retrieved from https://www.roanoke.com/proposed-roanoke-voting-precinct-changes/pdf_12c57448-4e25-50ee-8725-ca626cb75880.html
+
+Richmond City Council. Precinct 115, 9-67.1 § (2018). Richmond, Virginia: Code of the City of Richmond. Retrieved from https://library.municode.com/va/richmond/codes/code_of_ordinances?nodeId=PTIICICO_CH9EL_ARTIIIPR_S9-67.1PR115
+
+Rockingham County Board of Supervisors. Ordinance No. PCO 18-10, 6A-6–7 § (2018). Harrisonburg, Virginia: Rockingham County Code. Retrieved from https://library.municode.com/va/rockingham_county/ordinances/code_of_ordinances?nodeId=909700
+
+Skelton, A. (2018, March 22). Two new polling places being added in Virginia Beach to deal with more voters. Retrieved from https://www.pilotonline.com/government/local/article_f065a0f0-2bad-11e8-a027-37eee602651f.html
+
+Wrabel, A. (2018, March 14). Albemarle supervisors OK changes to some voting precincts. Retrieved from https://www.dailyprogress.com/news/local/albemarle-supervisors-ok-changes-to-some-voting-precincts/article_49186dc8-27f2-11e8-a426-9fcb0dc095f6.html
