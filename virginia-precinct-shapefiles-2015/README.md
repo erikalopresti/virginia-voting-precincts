@@ -85,7 +85,7 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 - 3/14/2015 - Charles Houston (110) created from portions of Fire Department (109) and Durant Center (104) precincts.
 ### 685 Manassas Park City [8](#manassas-park-city)
 - 2/24/2015 - Precinct Three (003) created from portions of Precinct One (001) and Precinct Two (002).
-### 810 Virginia Beach City
+### 810 Virginia Beach City [9](#virginia-beach-city)
 - 3/17/2015 - Four new precincts and polling locations  
 	- Indian River (097) created from split of Round Hill (71) precinct.  
 	- Independence (98) precinct created from split of Dahlia (73) precinct.  
@@ -112,3 +112,5 @@ Letourneau, M. F. (2015). Important voting information, including Dulles Distric
 City of Alexandria Information and Technology Services GIS Division. (2015, February 11). Proposed creation of Charles Houston Center Precinct. Retrieved from https://www.alexandriava.gov/uploadedFiles/elections/PrecinctChange_Charles Houston Center_v2.pdf
 #### Manassas Park City
 Manassas Park City Council. Voting Places, 2–2 § (2015). Manassas Park, Virginia: Manassas Park Code of Ordinances. Retrieved from https://library.municode.com/va/manassas_park/codes/code_of_ordinances?nodeId=COCI_CH2AD_ARTIINGE_S2-2VOPL
+#### Virginia Beach City
+Virginia Beach City Council. An ordinance to amend section 10-1 of the city code (2015). Virginia Beach, Virginia: Virginia Beach City Council Meeting Minutes, Item # 64662. Retrieved from http://edocs.vbgov.com/WebLink/DocView.aspx?id=49708797&dbid=0&repo=CityClerk
