@@ -22,7 +22,7 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 * distSplits - District splits within the precinct.
 * cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
 ## Precinct Changes for 2015
-### 23 Botetourt County
+### 23 Botetourt County [Hammack, L. (2015, February 24). Botetourt County reduces voting precincts to save money. Retrieved from https://www.roanoke.com/news/local/botetourt-county-reduces-voting-precincts-to-save-money/article_7202555d-fc29-5d74-b7f9-a1766175adf8.html][1]
 2/24/2015 - Amsterdam (101) precinct renamed to Daleville (101).
 
 2/24/2015 - Asbury (102) precinct renamed to Greenfield (102).
