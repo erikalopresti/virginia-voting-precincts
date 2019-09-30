@@ -1,5 +1,5 @@
-# virginia-voting-precincts
-## Virginia voting precinct shapefiles 2009-2020
+# Virginia Voting Precincts and Election Districts
+## Virginia voting precinct maps, 2009-2020 shapefiles 
 These precinct shapefile maps reflect voting precinct boundaries for Virginia primary and general elections from 2009-2020..
 ![image](https://user-images.githubusercontent.com/20375915/65660713-886bd900-dffd-11e9-9900-0574487f37df.png)
 * Encoding: EPSG 4269
