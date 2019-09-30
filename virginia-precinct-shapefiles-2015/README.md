@@ -28,7 +28,7 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 * distSplits - District splits within the precinct.
 * cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.  
 ## Precinct Changes for 2015
-### 23 Botetourt County
+### 23 Botetourt County [1](#botetourt-county)
 - 2/24/2015 County-wide precinct realignment.  
 	- Roaring Run (303), Springwood (304), Courthouse (402), Glen Wilton (404), Oriskany (405), Town Hall (406), and Coyner Springs (501) eliminated.  
 	- Amsterdam (101) - Renamed to Daleville (101).  
@@ -38,12 +38,12 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 	- Eagle Rock (403) - Gained voters from Glen Wilton (404) precinct.  
 	- Fincastle (406) - Created from the merger of Courthouse (402), Town Hall (406), and Oriskany (405) precincts.  
 	- Troutville (501) - Gained voters from Coyner Springs (501) precinct.  
-### 45 Craig County
+### 45 Craig County [2](#craig-county)
 - 7/2/2015 Three precincts eliminated and merged with surrounding precincts.  
 	- North Mountain (202) precinct eliminated in merger with Ammendale (201) precinct.  
 	- McGuire's Store (302) precinct eliminated in merger with Marshall's Store (301) precinct.  
 	- Forks of Johns Creek (404) precinct eliminated in merger with Craig Springs (403) precinct.  
-### 59 Fairfax County
+### 59 Fairfax County [3](#fairfax-county)
 - 11/18/2014 Four new precincts and polling locations, several boundary adjustments and renamed precincts.  
 	- Olde Creek (114) precinct created from the split of Little Run (109) precinct.  
 	- Boundary of Westhampton (317) precinct changed to reflect Fairfax County and Falls Church City boundary changes.  
@@ -62,7 +62,7 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 	- Kinross West (909) precinct renamed to Oak Hill (909).  
 	- Lees Corner #1 (927) precinct renamed to Armvield (927).  
 	- Lees Corner #2 (930) precinct renamed to Lees Corner (930).  
-### 107 Loudoun County
+### 107 Loudoun County [4](#loudoun-county)
 - 4/23/2015 Nine new precincts and polling locations, three renamed and one renumbered precinct.  
 	- Carter (117) created from split of Rock Ridge (125) precinct.  
 	- Cardinal Ridge (123) created from split of Little River (107) precinct.  
@@ -77,27 +77,38 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 	- Ashby Ponds precinct (626) created from split of Farmwell Station (622) precinct.  
 	- Ashbrook (627) precinct created from split of Weller (623) and Russell Branch (620) precincts.  
 	- Lansdowne precinct (821) renamed to Riverside (822) precinct.  
-### 153 Prince William County
+### 153 Prince William County [5](#prince-william-county)
 - 12/20/2015 - Ashton (404) renamed to Ben Lomond (404).
-### 165 Rockingham County
+### 165 Rockingham County [6](#rockingham-county)
 - 7/22/2015 - Crossroads (307) created from split of Massanetta Springs (305) precinct.
-### 510 Alexandria City
+### 510 Alexandria City [7](#alexandria-city)
 - 3/14/2015 - Charles Houston (110) created from portions of Fire Department (109) and Durant Center (104) precincts.
-### 685 Manassas Park City
+### 685 Manassas Park City [8](#manassas-park-city)
 - 2/24/2015 - Precinct Three (003) created from portions of Precinct One (001) and Precinct Two (002).
-### 810 Virginia Beeach City
+### 810 Virginia Beach City
 - 3/17/2015 - Four new precincts and polling locations  
 	- Indian River (097) created from split of Round Hill (71) precinct.  
 	- Independence (98) precinct created from split of Dahlia (73) precinct.  
 	- Dam Neck (95) precinct created from split of Ocean Lakes (3) precinct.  
 	- Hilltop (96) precinct created from split of Eastern Shore (67) precinct.  
 ## Sources
+#### Botetourt County
+Hammack, L. (2015, February 24). Botetourt County reduces voting precincts to save money. Retrieved from https://www.roanoke.com/news/local/botetourt-county-reduces-voting-precincts-to-save-money/article_7202555d-fc29-5d74-b7f9-a1766175adf8.html
+#### Craig County
 Craig County Board of Supervisors. Election districts and precinct boundaries, 11–09 § (2016). New Castle, Virginia: Code of Ordinances for Craig County. Retrieved from http://craigcountyva.gov/wp-content/uploads/2018/08/Chapter-18-Elections-1.pdf
+#### Fairfax County
+Fairfax County Board of Supervisors. (2014, November 18). 2014 Precinct and polling place changes. Retrieved from https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/01a_2015summary_of_changes.pdf
 
+Fairfax County Board of Supervisors. (2015, June 23). 2015 Precinct boundary and polling place changes. Retrieved from https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/1summaryofprecinctchanges_adopted_062315.pdf
+#### Prince William County
+Prince William Board of County Supervisors. Ordinance No. 55-15 (2015). Manassas, Virginia. Retrieved from https://eservice.pwcgov.org/documents/bocs/briefs/2015/1117/ord15-55.pdf
+#### Rockingham County
+Rockingham County GIS. (2015, July 10). Proposed Crossroads Precinct & Polling Place. Retrieved from http://www.rockinghamcountyva.gov/CivicAlerts.aspx?AID=273&ARC=428
+#### Loudoun County
 Gardezi, A. (2015, September 28). Election 2015: Precinct changes. Retrieved from https://patch.com/virginia/leesburg/election-2015-precinct-changes-0
 
-Hammack, L. (2015, February 24). Botetourt County reduces voting precincts to save money. Retrieved from https://www.roanoke.com/news/local/botetourt-county-reduces-voting-precincts-to-save-money/article_7202555d-fc29-5d74-b7f9-a1766175adf8.html
-
 Letourneau, M. F. (2015). Important voting information, including Dulles District precinct changes and absentee locations. Retrieved from https://www.loudoun.gov/Archive/ViewFile/Item/4899
-
+#### Alexandria City
+City of Alexandria Information and Technology Services GIS Division. (2015, February 11). Proposed creation of Charles Houston Center Precinct. Retrieved from https://www.alexandriava.gov/uploadedFiles/elections/PrecinctChange_Charles Houston Center_v2.pdf
+#### Manassas Park City
 Manassas Park City Council. Voting Places, 2–2 § (2015). Manassas Park, Virginia: Manassas Park Code of Ordinances. Retrieved from https://library.municode.com/va/manassas_park/codes/code_of_ordinances?nodeId=COCI_CH2AD_ARTIINGE_S2-2VOPL
