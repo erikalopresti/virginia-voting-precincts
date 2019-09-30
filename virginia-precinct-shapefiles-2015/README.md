@@ -2,6 +2,12 @@
 ## Virginia voting precinct maps 2016
 The 2015 maps reflect the voting precinct boundaries for the 2015 Virginia November General Elections.
 * Encoding: EPSG 4269
+##### Table of Contents
+[Attributes](#attributes)
+[Split Precinct Maps](#split-precinct-maps)
+[Precinct Changes for 2015](#precinct-changes-for-2015)
+[Sources](#sources)
+<a name="attributes"/>
 ### Attributes
 * precinctID - Eight digit number consisting of the county FIPS code from the US Census Bureau concatenated with the precinct code. This is a unique number for every precinct within a given election.
 * precinctCo - Precinct code. Corresponds to the VTD number in US Census Bureau files.
@@ -16,13 +22,15 @@ The 2015 maps reflect the voting precinct boundaries for the 2015 Virginia Novem
 * locUid - LocalityUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.
+<a name="split-precinct-maps"/>
 ## Split Precinct Maps
 In 2015, Virginia had 127 precincts split by State Senate district boundaries, and 129 precincts split by House of Delegates district boundaries. These maps are the same as the voting precinct shapefiles, but split precincts are shown as separate features so that election results can be mapped by both precinct and State Senate or House of Delegates district.
 ### Attributes for split precinct maps
 * distSplits - District splits within the precinct.
 * cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
+<a name="precinct-changes-for-2015"/>
 ## Precinct Changes for 2015
-### 23 Botetourt County [Hammack, L. (2015, February 24). Botetourt County reduces voting precincts to save money. Retrieved from https://www.roanoke.com/news/local/botetourt-county-reduces-voting-precincts-to-save-money/article_7202555d-fc29-5d74-b7f9-a1766175adf8.html][1]
+### 23 Botetourt County
 2/24/2015 - Amsterdam (101) precinct renamed to Daleville (101).
 
 2/24/2015 - Asbury (102) precinct renamed to Greenfield (102).
@@ -116,7 +124,7 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 3/17/2015 - Dam Neck (95) precinct created from split of Ocean Lakes (3) precinct.
 
 3/17/2015 - Hilltop (96) precinct created from split of Eastern Shore (67) precinct.
-
+<a name="sources"/>
 ## Sources
 Craig County Board of Supervisors. Election districts and precinct boundaries, 11–09 § (2016). New Castle, Virginia: Code of Ordinances for Craig County. Retrieved from http://craigcountyva.gov/wp-content/uploads/2018/08/Chapter-18-Elections-1.pdf
 
