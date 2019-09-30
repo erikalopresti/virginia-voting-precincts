@@ -62,8 +62,6 @@ Bedford County GIS Department. (2018, August 2). Bedford County Voting Precincts
 
 #### 23 Botetourt County
 Botetourt County GIS Department. (2016, March). Botetourt County Virginia Voting Precincts. Retrieved from https://botetourtva.gov/botetourt/wp-content/uploads/2019/04/2016_Precincts_8x11.pdf
-
-Hammack, L. (2015, February 24). Botetourt County reduces voting precincts to save money. Retrieved from https://www.roanoke.com/news/local/botetourt-county-reduces-voting-precincts-to-save-money/article_7202555d-fc29-5d74-b7f9-a1766175adf8.html
 #### 25 Brunswick County
 Brunswick County Virginia Board of Supervisors. (n.d.). Election District Map. Retrieved September 19, 2019, from https://www.brunswickco.com/government/board_of_supervisors/election_district_map
 #### 27 Buchanan County
@@ -91,11 +89,9 @@ Culpeper County Virginia Voting Precinct Map. (2019, March 6). Retrieved from ht
 #### 49 Cumberland County
 Cumberland County Redistricting Committee. (2011). Cumberland County Magisterial District Map. Retrieved from https://www.cumberlandcounty.virginia.gov/sites/default/files/2017-10/Registrar_Redistricting_2010.pdf
 #### 51 Dickenson County
-Dickenson County Board of Supervisors. (2013, March 26). Meeting Minutes - Public Hearing. Retrieved from https://www.dickensonva.org/DocumentCenter/View/1658/BoS-Minutes---2013---0326---Public-Hearing
+Dickenson County Board of Supervisors. (2011, August 23). Ordinance Book No. 2. Retrieved from https://dickensonva.org/DocumentCenter/View/17/Ordinance-Book-2
 
 Dickenson County Board of Supervisors. (2013, February 23). Meeting Minutes. Retrieved from https://www.dickensonva.org/DocumentCenter/View/1655/BoS-Minutes---2013---0226
-
-Dickenson County Board of Supervisors. (2011, August 23). Ordinance Book No. 2. Retrieved from https://dickensonva.org/DocumentCenter/View/17/Ordinance-Book-2
 #### 53 Dinwiddie County
 Dinwiddie County, Virginia 2012 Approved Precincts Based on 2010 Census Data. (2012). Retrieved from https://www.dinwiddieva.us/DocumentCenter/View/1592/Dinwiddie_Approved_Districts_2012
 #### 57 Essex County
@@ -152,6 +148,7 @@ Lancaster County, Virginia voting districts map. (2017, December 11). Retrieved 
 Lee County Board of Supervisors. (2013, March 19). Meeting Minutes. Retrieved from http://www.leecova.org/Minutes/2013/Minutes 3-19-13 Regular Meeting.pdf
 #### 107 Loudoun County
 Loudoun County Open Data Group. (2019, April 9). Loudoun Election Precincts. Retrieved from https://geohub-loudoungis.opendata.arcgis.com/datasets/ef2c7c42a1ca441fa839426cf1481a50_3
+#### 109 Louisa County
 Louisa County Voter Registrar. (2017, November 20). Voting Districts and Precincts. Retrieved from https://www.louisacounty.com/1142/Voting-Districts-and-Precincts
 #### 111 Lunenburg County
 Timmons Group Web LoGIStics. (n.d.). Lunenburg Web LoGIStics, District Boundaries. Retrieved September 26, 2019, from https://lunenburggis.timmons.com/#/mwl
@@ -294,8 +291,6 @@ Manassas Park City Council. Voting Places, 2–2 § (2015). Manassas Park, Virgi
 
 #### 700 Newport News City
 City of Newport News Virginia. (2019). Newport News Election Locations. Retrieved from https://nngov.maps.arcgis.com/apps/webappviewer/index.html?id=d0e4156f13434b6abded2affd5cdd1b4
-
-Mullin, M. (2018, August 24). Split precincts damage democracy. Retrieved from https://www.dailypress.com/virginiagazette/opinion/va-vg-edit-mullin-0825-story.html
 #### 710 Norfolk City
 City of Norfolk GIS. (2019, June 27). Election Precincts. Retrieved from http://norfolkgisdata-orf.opendata.arcgis.com/datasets/election-precincts
 #### 720 Norton City
