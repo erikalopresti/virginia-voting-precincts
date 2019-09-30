@@ -1,6 +1,6 @@
 # virginia-voting-precincts
-## Virginia voting precinct maps 2011-2020
-The 2019-2020 maps reflect the Virginia voting precinct boundaries for the 2019 June Primary, 2019 November General, 2020 March Presidential Primary, 2020 June Primary, and 2020 November General Elections. Shapefiles will be added for all election years from 2011-2020.
+## Virginia voting precinct shapefiles 2009-2020
+These precinct shapefile maps reflect voting precinct boundaries for Virginia primary and general elections from 2009-2020..
 ![image](https://user-images.githubusercontent.com/20375915/65660713-886bd900-dffd-11e9-9900-0574487f37df.png)
 * Encoding: EPSG 4269
 ### Attributes
@@ -11,11 +11,9 @@ The 2019-2020 maps reflect the Virginia voting precinct boundaries for the 2019 
 * locality - Name of the locality (county or independent city)
 * congDist - Congressional district current for the map year.
 * senateDist - Senate of Virginia district current for the map year.
-* hodDist - (For maps older than 2019) House of Delegates district current for the map year.
-* hodDist17 - (2019-2020 map only) House of Delegates district prior to the new district maps adopted on 29 Jan 2019.
-* hodDist19 - (2019-2020 map only) House of Delegates district according to the Final Remedial plan adopted on 29 Jan 2019.
+* hodDist - House of Delegates district current for the map year.
 * actVoters - Number of active registered voters in the precinct (or split precinct portion) at the time of the election.
-* preUid - PrecinctUid given in the .csv files of Individual Election Results from the Virginia Department of Elections. These will not be completely updated for the 2019-2020 maps until 2019 November General Election results are released.
+* preUid - PrecinctUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
 * locUid - LocalityUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.
@@ -43,7 +41,7 @@ Accomack County Department of Planning and Community Development. (2011, March 2
 #### 3 Albemarle County
 Albemarle County Office of Geographic Data Services. (2019, February 9). Voter Precincts. Retrieved from http://www.albemarle.org/department.asp?department=gds&relpage=3914#Political
 
-Wrabel, A. (2018, March 14). Albemarle supervisors OK changes to some voting precincts. Retrieved from https://www.dailyprogress.com/news/local/albemarle-supervisors-ok-changes-to-some-voting-precincts/article_49186dc8-27f2-11e8-a426-9fcb0dc095f6.html
+Albemarle Board of Supervisors. Ordinance No. 18-2(2), 2 § (2018). Charlottesville, Virginia: Albemarle County Code. Retrieved from https://library.municode.com/va/albemarle_county/ordinances/code_of_ordinances?nodeId=978605
 #### 5 Alleghany County
 Alleghany County 2011 districts and precincts. (2011). Retrieved from http://www.co.alleghany.va.us/wp-content/uploads/2016/08/magisterial.districts.pdf
 #### 7 Amelia County
@@ -84,8 +82,6 @@ Charles City Board of Supervisors. Elections, 14 § (2011). The Code of the Coun
 Charlotte County Voter Registration. (2011, August 8). Charlotte Final Redistricting Plan - Precincts. Retrieved from http://www.charlotteva.com/pdfs/Voting_precincts.pdf
 #### 41 Chesterfield County
 Voting Precinct Boundaries in Chesterfield County, VA. (2019, September 18). Retrieved from http://opengeospace.chesterfield.gov/datasets/349dce35948843289e85e1a18ade455e_1
-
-Soptelean, C. M. (2019, January 15). County looking to create five new voting precincts. Retrieved from http://villagenewsonline.com/2019/01/15/county-looking-to-create-five-new-voting-precincts/
 #### 43 Clarke County
 Clarke County GIS. (n.d.). Clarke County MapsOnline. Retrieved September 26, 2019, from https://www.mapsonline.net/clarkecounty/
 #### 45 Craig County
@@ -125,22 +121,19 @@ Goochland County Virginia Official Electoral Map. (2013). Retrieved from https:/
 #### 77 Grayson County
 
 #### 79 Greene County
-Thomas Jefferson Planning District Commission. (2011, June 14). Greene County Election Districtshttps://www.greenecountyva.gov/forms/documents/voter-registration/164-greene-county-election-districts/file. Retrieved from https://www.greenecountyva.gov/forms/documents/voter-registration/164-greene-county-election-districts/file
+Thomas Jefferson Planning District Commission. (2011, June 14). Greene County Election Districts. Retrieved from https://www.greenecountyva.gov/forms/documents/voter-registration/164-greene-county-election-districts/file
 #### 81 Greensville County
 Greensville County Geographic Information Systems. (2019, September). Retrieved from https://www.webgis.net/va/greensville/
 #### 83 Halifax County
-Ready to vote? Some precincts have moved in Halifax County. (2017, October 31). Retrieved from http://www.yourgv.com/news/local_news/ready-to-vote-some-precincts-have-moved-in-halifax-county/article_5c9efd78-be78-11e7-a3b0-ff7937a00896.html
-SoVaNow.com. (2011, April 7). Halifax County election map, candidates in flux. Retrieved from http://www.thenewsrecord.com/index.php?/news/article/halifax_county_election_map_candidates_in_flux/
+Halifax County Voter Registrar. (2011, April 5). Voting Precincts & Election Districts. Retrieved from https://www.halifaxcountyva.gov/?SEC=E3E00860-36AA-48CE-87F1-36994BCF345A
 #### 85 Hanover County
 Hanover County GIS. (2015). Hanover County Voting Precinct Map. Retrieved from https://www.hanovercounty.gov/DocumentCenter/View/1373/Hanover-County-Election-Districts-Map-PDF
 #### 87 Henrico County
 Henrico County GIS Office. (2019, August 26). Voting Precincts. Retrieved from https://data-henrico.opendata.arcgis.com/datasets/voting-precincts
-
-Henrico County Board of Supervisors Public Meeting. (2019, November 25). Retrieved from https://www.richmond.com/classifieds/community/announcements/legal/henrico-county-board-of-supervisors-public-meeting/ad_105eccb6-d1f4-5f6a-88f7-a5e5ff6c2ec1.html
 #### 89 Henry County
 Henry County Board of Supervisors. (2011, January 2). Organizational Meeting Minutes. Retrieved from https://www.henrycountyva.gov/content/uploads/PDF/2011_Board_of_Supervisors_Board_Packets/bos_minutes_2012.pdf
 #### 91 Highland County
-
+Central Shenandoah Planning District Commission. (2010, June). County of Highland - Magisterial Districts. Retrieved from http://www.highlandcova.org/Compmaps/1 - Magisterial Districts.pdf
 #### 93 Isle Of Wight County
 Isle of Wight County – Election Districts, Precincts, and Polling Locations. (n.d.). Retrieved from http://www.co.isle-of-wight.va.us/voter-registration/districts-precincts-and-polling-locations/
 #### 95 James City County
@@ -159,9 +152,6 @@ Lancaster County, Virginia voting districts map. (2017, December 11). Retrieved 
 Lee County Board of Supervisors. (2013, March 19). Meeting Minutes. Retrieved from http://www.leecova.org/Minutes/2013/Minutes 3-19-13 Regular Meeting.pdf
 #### 107 Loudoun County
 Loudoun County Open Data Group. (2019, April 9). Loudoun Election Precincts. Retrieved from https://geohub-loudoungis.opendata.arcgis.com/datasets/ef2c7c42a1ca441fa839426cf1481a50_3
-
-LoudounNow. (2018, April 18). Leesburg Voting Precincts Relocated. Retrieved from https://loudounnow.com/2018/04/18/leesburg-voting-precincts-relocated/
-#### 109 Louisa County
 Louisa County Voter Registrar. (2017, November 20). Voting Districts and Precincts. Retrieved from https://www.louisacounty.com/1142/Voting-Districts-and-Precincts
 #### 111 Lunenburg County
 Timmons Group Web LoGIStics. (n.d.). Lunenburg Web LoGIStics, District Boundaries. Retrieved September 26, 2019, from https://lunenburggis.timmons.com/#/mwl
@@ -169,16 +159,14 @@ Timmons Group Web LoGIStics. (n.d.). Lunenburg Web LoGIStics, District Boundarie
 
 #### 115 Mathews County
 Mathews County Voter Registrar. (n.d.). Mathews County, VA Voting Precincts. Retrieved September 19, 2019, from http://www.mathewscountyva.gov/government/voter-registrar-s-office/precinct-information
+
+Mathews County Board of Supervisors. Boundaries of precincts, 44–5 § (2001). Mathews, Virginia: Mathews County Code of Ordinances. Retrieved from https://ecode360.com/8426450
 #### 117 Mecklenburg County
 Mecklenburg County Registrar’s Office. (2011). Mecklenburg County, Virginia Voter District Map 2011. Retrieved from https://www.mecklenburgva.com/voter-district-map.aspx
 #### 119 Middlesex County
 Middlesex County, Virginia 2016 Voting Precinct Map. (n.d.). Retrieved September 25, 2019, from http://www.co.middlesex.va.us/middlesex_precincts.html
 #### 121 Montgomery County
 Montgomery County Voter Registration. (n.d.). Voting Districts. Retrieved September 19, 2019, from https://www.montva.com/departments/voter-registration/maps-precincts-districts
-
-Gangloff, M. (2014, December 26). Del. Joseph Yost proposes rejoining split precincts in Montgomery County. Retrieved from https://www.roanoke.com/news/local/montgomery_county/del-joseph-yost-proposes-rejoining-split-precincts-in-montgomery-county/article_d4a2e017-5594-5ee3-a63a-78230f2d0ed1.html
-
-Gordon, M. (2014, June 10). On-campus voting location approved by Board of Supervisors. Retrieved from http://www.collegiatetimes.com/news/on-campus-voting-location-approved-by-board-of-supervisors/article_79ff1e72-f0b1-11e3-86d3-0017a43b2370.html
 #### 125 Nelson County
 Election District Map for Nelson County, VA. (2011, July 12). Retrieved from http://www.nelsoncounty-va.gov/wp-content/uploads/Election_RoadMap_92_neatline21.pdf
 #### 127 New Kent County
@@ -203,8 +191,6 @@ Prince Edward County Voter Registrar. (2011, March 8). Prince Edward County Fina
 Prince George GIS Office. (2011, June 8). Map of the Voting Precincts in Prince George County. Retrieved from https://www.princegeorgeva.org/departments/registrar_s_office/map_of_county_precincts.php
 #### 153 Prince William County
 Prince William County GIS Office. (2019, February 13). Voting Precincts. Retrieved from https://gisdata-pwcgov.opendata.arcgis.com/datasets/voting-precincts
-
-Sides, E. (2019, February 7). Prince William County splits up largest election precincts. Retrieved from https://www.insidenova.com/news/prince_william/prince-william-county-splits-up-largest-election-precincts/article_7568f5a8-2a46-11e9-b841-6b729f881c28.html
 #### 155 Pulaski County
 Pulaski County, Virginia Precinct Map. (n.d.). Retrieved September 24, 2019, from http://pulaskicounty.org/documents/registrar/county-precinct.pdf
 #### 157 Rappahannock County
@@ -213,20 +199,19 @@ Rappahannock-Rapidan Regional Commission. (2013, May 28). Rappahannock County Vo
 Richmond County Voter Registration Office. (2011, April 25). Voting District Boundaries. Retrieved from https://co.richmond.va.us/pdf/Adopted-4-25-2011.pdf
 #### 161 Roanoke County
 Roanoke County Open Data. (2019, September 20). Voting Precincts. Retrieved from https://data.roanokecountyva.gov/datasets/voting-precincts
-
-Petska, A. (2019, January 22). Roanoke County votes to change two of its largest precincts. Retrieved from https://www.roanoke.com/news/local/roanoke-county-votes-to-change-two-of-its-largest-precincts/article_8ff7c57a-d00b-50e2-8a35-3b4ef6d0ef27.html
 #### 163 Rockbridge County
 Rockbridge County Board of Supervisors. Precinct boundaries., 11–33 § (2013). Lexington, Virginia: Rockbridge County Code. Retrieved from http://www.co.rockbridge.va.us/DocumentCenter/View/212/Chapter11
 #### 165 Rockingham County
 Rockingham County GIS. (n.d.). Election Districts. Retrieved September 24, 2019, from https://www.rockinghamcountyva.gov/659/GIS-Data-Downloads
 
-Casey, M. (2018, August 27). Bridgewater voting precinct to split in two. Retrieved from https://www.whsv.com/content/news/Bridgewater-voting-precinct-to-split-in-two-491804791.html
+Rockingham County Board of Supervisors. Ordinance No. PCO 18-10, 6A-6–7 § (2018). Harrisonburg, Virginia: Rockingham County Code. Retrieved from https://library.municode.com/va/rockingham_county/ordinances/code_of_ordinances?nodeId=909700
 #### 167 Russell County
 
 #### 169 Scott County
+Scott County Virginia E-911/GIS. (n.d.). Scott County election precincts. Retrieved September 26, 2019, from http://www.scottcountyva.com/ScottCountyElectionPrecincts.pdf
+
 Scott County Virginia E-911/GIS. (n.d.). Scott County election districts. Retrieved September 26, 2019, from http://www.scottcountyva.com/ScottCountyElectionDistricts.pdf
 
-Scott County Virginia E-911/GIS. (n.d.). Scott County election precincts. Retrieved September 26, 2019, from http://www.scottcountyva.com/ScottCountyElectionPrecincts.pdf
 #### 171 Shenandoah County
 Shenandoah County GIS. (2013, November 18). Election Districts & Precinct Boundaries. Retrieved from http://shenandoahcountyva.us/voting/wp-content/uploads/sites/18/2013/11/ElectionPrecinctsDistricts2014map_11x17.pdf
 #### 173 Smyth County
@@ -243,8 +228,6 @@ Surry County Board of Supervisors. Election districts, precincts, and places (20
 
 #### 185 Tazewell County
 Tazewell County GIS Viewer. (n.d.). Retrieved September 24, 2019, from http://gis.tazewellcounty.org/tazewellcountygis/
-
-Boothe, C. (2018, June 25). Tazewell advancing plan to consolidate several voting precincts. Retrieved from https://www.bdtonline.com/news/local_news/tazewell-advancing-plan-to-consolidate-several-voting-precincts/article_fc26a606-168b-5d5c-a475-1b61f35a538b.html
 #### 187 Warren County
 Warren County GIS Office. (2015). Warren County, VA Election Districts. Retrieved from https://www.warrencountyva.net/images/Voter_Locations__Precincts_2015.pdf
 #### 191 Washington County
@@ -252,6 +235,8 @@ Washington County GIS. (2011, June 15). Election District Maps. Retrieved from h
 #### 193 Westmoreland County
 Voting Districts for Westmoreland County, Virginia. (2016). Retrieved from https://www.westmoreland-county.org/sites/default/files/sites/default/files/wc_vot_district.pdf
 #### 195 Wise County
+Wise County Geographic Information Sciences Department. (2019, July). Wise County GIS Map. Retrieved from https://www.webgis.net/va/Wise/
+
 Wise County Board of Supervisors. Precincts and polling places (2011). Wise, Virginia: Wise County Code of Ordinances. Retrieved from https://library.municode.com/va/wise_county/codes/code_of_ordinances?nodeId=COCO_CH6EL_ARTIIIPRPOPL
 #### 197 Wythe County
 Wythe County, Virginia - iGIS. (2019). Retrieved from http://wythe.interactivegis.com/index.php
@@ -313,8 +298,6 @@ City of Newport News Virginia. (2019). Newport News Election Locations. Retrieve
 Mullin, M. (2018, August 24). Split precincts damage democracy. Retrieved from https://www.dailypress.com/virginiagazette/opinion/va-vg-edit-mullin-0825-story.html
 #### 710 Norfolk City
 City of Norfolk GIS. (2019, June 27). Election Precincts. Retrieved from http://norfolkgisdata-orf.opendata.arcgis.com/datasets/election-precincts
-
-Newsome, C. (2011, December 23). Norfolk looks to save by combining voting precincts. Retrieved from https://www.pilotonline.com/government/article_3208b296-df02-59b5-9b97-c44e9dd3bfbb.html
 #### 720 Norton City
 Norton City Council. Elections, 6 § (2007). Norton, Virginia: Norton Code of Ordinances. Retrieved from https://library.municode.com/va/norton/codes/code_of_ordinances?nodeId=CO_CH6EL
 #### 730 Petersburg City
@@ -327,18 +310,10 @@ Portsmouth, Virginia House Districts & Polling Locations. (2019). Retrieved from
 Ordinance Establishing New Precinct and Polling Place (New River Precinct). (2018). Retrieved from https://www.radfordva.gov/DocumentCenter/View/3062/Ordinance-Establishing-New-Precinct-and-Polling-Place-New-River-Precinct-1707
 #### 760 Richmond City
 City of Richmond GIS. (2019, February 3). Election Districts. Retrieved from ftp://ftp.ci.richmond.va.us/GIS/Shapefiles/
-
-Code of the City of Richmond Ordinance No. 2011-215-2012-4. (2012, January 9). Retrieved September 9, 2019, from ftp://ftp.ci.richmond.va.us/Redistricting2011/ExhibitB/Certified Ordinance No  2011-215-2012-4.pdf
 #### 770 Roanoke City
 City of Roanoke GIS. (2019, August 5). Voting Precincts. Retrieved from ftp://ftp.roanokeva.gov/GIS/Shapefiles/
 
-Chittum, M. (2017, December 18). Roanoke City Council votes to eliminate Virginia Heights-Norwich voting precinct. Retrieved from https://www.roanoke.com/news/local/roanoke-city-council-votes-to-eliminate-virginia-heights-norwich-voting/article_a2bd900d-4709-5090-9db4-169578dfa225.html
-
-Proposed Roanoke Voting Precinct Changes. (2017, December 17). Retrieved from https://www.roanoke.com/proposed-roanoke-voting-precinct-changes/pdf_12c57448-4e25-50ee-8725-ca626cb75880.html
-
 City of Roanoke GIS. (2015, October 29). Voter Precinct Map, Engineering Plan 6754. Retrieved from https://www.roanokeva.gov/DocumentCenter/View/3784/Voter-Precincts-Map
-
-Adams, M. (2012, November 10). Roanoke reviewing precincts, long lines. Retrieved from https://www.roanoke.com/webmin/news/roanoke-reviewing-precincts-long-lines/article_f03a947f-f9c2-59dc-83c0-01692fa2c5dc.html
 
 City of Roanoke GIS. (2011, August 22). Voter Precincts & House of Delegates Districts. Retrieved from https://www.roanokeva.gov/DocumentCenter/View/787/Voter-Precincts-Map-PDF
 #### 775 Salem City
@@ -347,16 +322,8 @@ City of Salem GIS Systems. (2018, December 14). Voting Precincts. Retrieved from
 Staunton GIS Coordinator. (2017, November). Voting Wards. Retrieved from https://www.ci.staunton.va.us/home/showdocument?id=2234
 #### 800 Suffolk City
 City of Suffolk Registrar. (n.d.). Borough & Precinct Maps. Retrieved September 25, 2019, from http://www.suffolkva.us/854/Borough-Precinct-Maps
-
-Bourne, V. (2016, January 8). Some Suffolk voters might cast ballots in new polling places this year. Retrieved from https://www.pilotonline.com/government/local/article_7c8b5aff-e5c3-5a75-81f6-a577f1e755e2.html
-
-Sheler, J. (2011, November 3). Suffolk council OKs map for new voter precincts. Retrieved from https://www.pilotonline.com/government/local/article_5bd991d5-7820-54f6-ac77-8dfa83aaadba.html
 #### 810 Virginia Beach City
 Virginia Beach Center for GIS. (2019, May 13). Precinct Boundaries. Retrieved from https://gis.data.vbgov.com/datasets/7cae00e39a684380b7aa912b3d6c9d55?layer=1
-
-Skelton, A. (2018, March 22). Two new polling places being added in Virginia Beach to deal with more voters. Retrieved from https://www.pilotonline.com/government/local/article_f065a0f0-2bad-11e8-a027-37eee602651f.html
-
-The Independent News. (2016, September 6). Creeds polling location moves to Oak Grove Baptist; boundary shift between Oceana, Red Wing precincts. Retrieved from http://princessanneindy.com/2016/09/06/elections/
 #### 820 Waynesboro City
 Waynesboro City Council. Election districts; voting places, 1–13 § (2017). Waynesboro, Virginia: Waynesboro Code of Ordinances. Retrieved from https://library.municode.com/va/waynesboro/codes/code_of_ordinances?nodeId=PTIICO_CH1GEPR_S1-13ELDIVOPL
 #### 830 Williamsburg City
