@@ -595,13 +595,13 @@ North River District
 Shenandoah District  
 South River District  
 ### Washington County
-District A
-District B
-District C
-District D
-District E
-District F
-District G
+District A  
+District B  
+District C  
+District D  
+District E  
+District F  
+District G  
 ### Westmoreland County
 District 1  
 District 2  
