@@ -26,7 +26,8 @@ These precinct shapefile maps reflect voting precinct boundaries for the 2015 Vi
 In 2015, Virginia had 127 precincts split by State Senate district boundaries, and 129 precincts split by House of Delegates district boundaries. These maps are the same as the voting precinct shapefiles, but split precincts are shown as separate features so that election results can be mapped by both precinct and State Senate or House of Delegates district.
 ### Attributes for split precinct maps
 * distSplits - District splits within the precinct.
-* cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.  
+* hdPrecinct - For maps showing precincts split by House of Delegates district boundaries. Unique identifyer (House of Delegates district number concatenated with precinctID) for each precinct or precinct split portion.  
+% sdPrecinct - For maps showing precincts split by State Senate district boundaries. Unique identifyer (State Senate district number concatenated with precinctID) for each precinct or precinct split portion.  
 ## Precinct Changes for 2015
 ### 23 Botetourt County [1](#botetourt-county)
 - 2/24/2015 County-wide precinct realignment.  
