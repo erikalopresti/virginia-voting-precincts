@@ -28,6 +28,7 @@ In 2013, Virginia had 23 precincts split by Congressional district boundaries, a
 The 2013 set of precinct shapefiles includes:
 - Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the statewide races for Governor, Lieutenant Governor, and Attorney General, which are reported by Congressional district.
 - Map of precincts including House of Delegates district (HD) splits. This shapefile can be used to map the results for the 2013 House of Delegates election.
+
 These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and Congressional or House of Delegates district. This is useful if one wants to compare, for example, the two-party vote share in a given  election with census demographic data such as income, race, and education rates.  
 ### Attributes for split precinct maps
 * distSplits - District splits within the precinct.
@@ -67,7 +68,6 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 - 8/26/2013 Ward One and Ward Two eliminated in consolidation of Bedford City and Bedford County.
 ### 760 Richmond City [10](#richmond-city)
 - 7/8/2013 Boundary adjusted between precincts Five Hundred Three (503) and Five Hundred Five (505).
-
 ## Sources
 ### Bedford County
 Bedford County Code § 2 (Ord. No. O082613-10, adopted 8-26-2013). Retrieved from https://librarystage.municode.com/va/bedford_county/codes/code_of_ordinances?nodeId=COCO_CH6EL
@@ -81,15 +81,15 @@ Dickenson County Code, Ordinance Book No. 2. (2011, August 23). Retrieved from h
 #### Fairfax County
 Fairfax County Board of Supervisors. (2013, May 23). 2013 Precinct boundary and polling place changes. Retrieved from https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/2013summary_of_changes.pdf
 #### Goochland County
-Description of precincts. Goochland County Code 2–64 § (2019). Retrieved from https://library.municode.com/va/goochland_county/codes/code_of_ordinances?nodeId=COOR_CH2AD_ARTIIBOSUSCBOEL_DIV3PRPOPL_S2-64DEPR..
-Goochland County Virginia Official Electoral Map. (2013). Retrieved from https://www.goochlandva.us/DocumentCenter/View/477/Goochland-County-Voting-Districts-PDF
+Description of precincts. Goochland County Code 2–64 § (2019). Retrieved from https://library.municode.com/va/goochland_county/codes/code_of_ordinances?nodeId=COOR_CH2AD_ARTIIBOSUSCBOEL_DIV3PRPOPL_S2-64DEPR  
+Goochland County Virginia Official Electoral Map. (2013). Retrieved from https://www.goochlandva.us/DocumentCenter/View/477/Goochland-County-Voting-Districts-PDF  
 #### Lee County
-Lee County Board of Supervisors. (2013, March 19). Meeting Minutes. Retrieved from http://www.leecova.org/Minutes/2013/Minutes 3-19-13 Regular Meeting.pdf
+Lee County Board of Supervisors. (2013, March 19). Meeting Minutes. Retrieved from http://www.leecova.org/Minutes/2013/Minutes%203-19-13%20Regular%20Meeting.pdf
 #### Loudoun County
 Loudoun County Board of Supervisors. (2013, April 17). Proposed Amendments to Chapter 209 of the Codified Ordinances of Loudoun County/Voting Precincts, Polling Places and Absentee Voting Location. Retrieved from https://www.loudoun.gov/DocumentCenter/View/86568/Item-15e---Amendments-to-Chapter-209-Voting
 #### Louisa County
 Louisa County Board of Supervisors. (2013, July 1). Resolution 2013-113 Amendment to the Louisa County Code of Ordinances, Section 2-4 Election Precincts. Retrieved from http://louisacountyva.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=1089&MediaPosition=&ID=2405&CssClass=
 ### Bedford City
 #### Richmond City
-New Richmond Voter Districts for Richmond Virginia, as of March 9, 2012. (2012, March 9). Retrieved from http://www.richmondgov.com/content/CouncilRedistricting/documents/NewRichmondVoterDistricts3.9.2012.pdf..
-Richmond City Council. Ordinance No. 2011-215-2012-4 (2012). Richmond, Virginia: Code of the City of Richmond. Retrieved from ftp://ftp.ci.richmond.va.us/Redistricting2011/ExhibitB/Certified Ordinance No  2011-215-2012-4.pdf
+New Richmond Voter Districts for Richmond Virginia, as of March 9, 2012. (2012, March 9). Retrieved from http://www.richmondgov.com/content/CouncilRedistricting/documents/NewRichmondVoterDistricts3.9.2012.pdf  
+Richmond City Council. Ordinance No. 2011-215-2012-4 (2012). Richmond, Virginia: Code of the City of Richmond. Retrieved from ftp://ftp.ci.richmond.va.us/Redistricting2011/ExhibitB/Certified%20Ordinance%20No%20%202011-215-2012-4.pdf
