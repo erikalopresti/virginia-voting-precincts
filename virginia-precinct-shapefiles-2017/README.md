@@ -1,6 +1,6 @@
 # Virginia Voting Precincts and Election Districts
-## Virginia voting precinct maps, 2016 shapefiles
-These precinct shapefile maps reflect voting precinct boundaries for the 2016 Virginia November General Elections.
+## Virginia voting precinct maps, 2017 shapefiles
+These precinct shapefile maps reflect voting precinct boundaries for the 2017 Virginia November General Elections.
 * Maps created in QGIS.
 * Encoding: EPSG 4269
 #### Table of Contents
@@ -27,7 +27,7 @@ These precinct shapefile maps reflect voting precinct boundaries for the 2016 Vi
 In 2017, Virginia had 23 precincts split by Congressional district boundaries, and 138 precincts split by House of Delegates district boundaries.  This means voters at the same location could be voting in two or three different House of Delegates races.
 The 2017 set of precinct shapefiles includes:
 - Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the statewide races for Governor, Lieutenant Governor, and Attorney General, which are reported by Congressional district.
-- Map of precincts including House of Delegates district (HD) splits. This shapefile can be used to map the results for the 2013 House of Delegates election.
+- Map of precincts including House of Delegates district (HD) splits. This shapefile can be used to map the results for the 2017 House of Delegates election.
 
 These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and Congressional or House of Delegates district. This is useful if one wants to compare, for example, the two-party vote share in a given  election with census demographic data such as income, race, and education rates.  
 ### Attributes for split precinct maps
@@ -65,4 +65,4 @@ Fairfax County Office of Elections. (2017, July 11). July 2017 summary of precin
 ### Loudoun County
 Loudoun County Administrator. (2017, October 17). Loudoun election officials notify residents of precinct changes. Retrieved from https://www.loudoun.gov/Archive/ViewFile/Item/7145
 ### Richmond City
-Precinct 214. Richmond City Code § 9-73.1 (Ord. No. 2017-145, § 2, 9-5-2017). Retrieved from https://library.municode.com/va/richmond/codes/code_of_ordinances/308539?nodeId=PTIICICO_CH9EL_ARTIIIPR_S9-73.1PR214
+Precinct 214. Richmond City Code § 9-73.1 (Ord. No. 2017-145, § 2, 9-5-2017). Retrieved from https://library.municode.com/va/richmond/codes/code_of_ordinances?nodeId=PTIICICO_CH9EL_ARTIIIPR_S9-73.1PR214
