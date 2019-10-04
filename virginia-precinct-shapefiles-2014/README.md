@@ -24,10 +24,14 @@ These precinct shapefile maps reflect voting precinct boundaries for the 2014 Vi
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
-In 2014, Virginia had 20 precincts split by Congressional district boundaries. These maps are the same as the voting precinct shapefiles, but split precincts are shown as separate features so that election results can be mapped by both precinct and State Senate or House of Delegates district.
+In 2014, Virginia had 20 precincts split by Congressional district boundaries. This means voters at the same location could be voting in two different US House of Representatives races.
+The 2014 set of precinct shapefiles includes:
+- Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the US House of Representatives race and also the statewide race United States Senate, which is reported by Congressional district.
+
+These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and Congressional District. This is useful if one wants to compare, for example, the two-party vote share in a given  election with census demographic data such as income, race, and education rates.  
 ### Attributes for split precinct maps
 * distSplits - District splits within the precinct.
-* cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.  
+* cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
 ## Precinct Changes for 2014
 ### 121 Montgomery County [1](#montgomery-county)
 6/9/2014 - Precinct F-3 (603) created from portions of Precinct F-1 (601) and Precinct G-1 (701).  
