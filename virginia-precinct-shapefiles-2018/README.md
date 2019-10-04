@@ -23,7 +23,11 @@ These precinct shapefile maps reflect voting precinct boundaries for the 2018 Vi
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
-In 2018, Virginia had 22 precincts split by Congressional district boundaries. These maps are the same as the voting precinct shapefiles, but split precincts are shown as separate features so that election results can be mapped by both precinct and Congressional district.
+In 2018, Virginia had 22 precincts split by Congressional district boundaries. This means voters at the same location could be voting in two or three different House of Delegates races.
+The 2018 set of precinct shapefiles includes:
+- Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the US House of Representatives race and also the statewide races for President and Vice President, and United States Senate, which are reported by Congressional district.
+
+These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and Congressional District. This is useful if one wants to compare, for example, the two-party vote share in a given election with census demographic data such as income, race, and education rates. 
 ### Attributes for split precinct maps
 * distSplits - District splits within the precinct.
 * cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
@@ -60,6 +64,7 @@ In 2018, Virginia had 22 precincts split by Congressional district boundaries. T
 	- Salem Woods (99) precinct created from split of Rosemont Forest (64) precinct.
 	- Sandbridge (100) precinct created from split of Sigma (31) precinct.
 ## Sources
+### Albemarle County
 Albemarle County Code § 2-101–107 (Ord. No. 18-2 § 2, 4-11-2018). Retrieved from https://library.municode.com/va/albemarle_county/ordinances/code_of_ordinances?nodeId=978605
 
 Wrabel, A. (2018, March 14). Albemarle supervisors OK changes to some voting precincts. Retrieved from https://www.dailyprogress.com/news/local/albemarle-supervisors-ok-changes-to-some-voting-precincts/article_49186dc8-27f2-11e8-a426-9fcb0dc095f6.html
