@@ -73,7 +73,7 @@ Bedford County Board of Supervisors. (2018, March 12). Meeting minutes, motion t
 ### Loudoun County
 Loudoun County Board of Supervisors. (2018, March 22). Proposed Amendments to Chapter 209 of the Codified Ordinances of Loudoun County/Voting Precincts and Polling Places. Retrieved from http://loudoun.granicus.com/MetaViewer.php?view_id=74&clip_id=5402&meta_id=139847
 ### Rockingham County
-Rockingham County Code § 6A-6–7 (Ord. No. PCO 18-10, 2018).Retrieved from https://library.municode.com/va/rockingham_county/ordinances/code_of_ordinances?nodeId=909700
+Rockingham County Code § 6A-6–7 (Ord. No. PCO 18-10, 8-8-2018).Retrieved from https://library.municode.com/va/rockingham_county/ordinances/code_of_ordinances?nodeId=909700
 ### Tazewell County
 Boothe, C. (2018, June 25). Tazewell advancing plan to consolidate several voting precincts. Retrieved from https://www.bdtonline.com/news/local_news/tazewell-advancing-plan-to-consolidate-several-voting-precincts/article_fc26a606-168b-5d5c-a475-1b61f35a538b.html
 ### Roanoke City
