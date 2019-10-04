@@ -44,10 +44,10 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 ### 95 James City County [3](#james-city-county)
 - 4/12/2016 - Berkeley D (104) precinct created from split of Berkeley A (101) precinct.
 ### 153 Prince William County [4](#prince-william-county)
-5/17/2016 - Haymarket (409) precinct renamed to Tyler (409).
-6/26/2016 - Godwin (603) precinct renamed to Hampton (603) precinct.
+- 5/17/2016 - Haymarket (409) precinct renamed to Tyler (409).
+- 6/26/2016 - Godwin (603) precinct renamed to Hampton (603) precinct.
 ### 193 Westmoreland County [5](#westmoreland-county)
-8/8/2016 - Two new precincts created 
+- 8/8/2016 - Two new precincts created 
 	- Precinct 2-2 (202) created from split of Precinct 2-1 (201).
 	- Precinct 3-2 (302) created from split of Precinct 3-1 (301).
 ## Sources
