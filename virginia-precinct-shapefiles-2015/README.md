@@ -29,6 +29,10 @@ The 2015 set of precinct shapefiles includes:
 - Map of precincts including House of Delegates district (HD) splits. This shapefile can be used to map the results for the 2015 Virginia House of Delegates election.
 
 These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and State Senate or House of Delegates district. This is useful if one wants to compare, for example, the two-party vote share in a given  election with census demographic data such as income, race, and education rates.
+### Attributes for split precinct maps
+* distSplits - District splits within the precinct.
+* cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.  
+* hdPrecinct - For maps showing precincts split by House of Delegates district boundaries. Unique identifyer (House of Delegates district number concatenated with precinctID) for each precinct or precinct split portion.  
 * sdPrecinct - For maps showing precincts split by State Senate district boundaries. Unique identifyer (State Senate district number concatenated with precinctID) for each precinct or precinct split portion.  
 ## Precinct Changes for 2015
 ### 23 Botetourt County [1](#botetourt-county)
