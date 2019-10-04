@@ -23,10 +23,12 @@ These precinct shapefile maps reflect voting precinct boundaries for the 2015 Vi
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
-In 2015, Virginia had 127 precincts split by State Senate district boundaries, and 129 precincts split by House of Delegates district boundaries. These maps are the same as the voting precinct shapefiles, but split precincts are shown as separate features so that election results can be mapped by both precinct and State Senate or House of Delegates district.
-### Attributes for split precinct maps
-* distSplits - District splits within the precinct.
-* hdPrecinct - For maps showing precincts split by House of Delegates district boundaries. Unique identifyer (House of Delegates district number concatenated with precinctID) for each precinct or precinct split portion.  
+In 2015, Virginia had 127 precincts split by State Senate district boundaries, and 129 precincts split by House of Delegates district boundaries. This means voters at the same location could be voting in two or three different House of Delegates or State Senate races.
+The 2015 set of precinct shapefiles includes:
+- Map of precincts including Senate of Virginia district (SD) splits. This shapefile can be used to map the results for the 2015 Senate of Virginia election.
+- Map of precincts including House of Delegates district (HD) splits. This shapefile can be used to map the results for the 2015 Virginia House of Delegates election.
+
+These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and State Senate or House of Delegates district. This is useful if one wants to compare, for example, the two-party vote share in a given  election with census demographic data such as income, race, and education rates.
 * sdPrecinct - For maps showing precincts split by State Senate district boundaries. Unique identifyer (State Senate district number concatenated with precinctID) for each precinct or precinct split portion.  
 ## Precinct Changes for 2015
 ### 23 Botetourt County [1](#botetourt-county)
