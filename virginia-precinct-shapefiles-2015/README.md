@@ -27,7 +27,7 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 ### Attributes for split precinct maps
 * distSplits - District splits within the precinct.
 * hdPrecinct - For maps showing precincts split by House of Delegates district boundaries. Unique identifyer (House of Delegates district number concatenated with precinctID) for each precinct or precinct split portion.  
-% sdPrecinct - For maps showing precincts split by State Senate district boundaries. Unique identifyer (State Senate district number concatenated with precinctID) for each precinct or precinct split portion.  
+* sdPrecinct - For maps showing precincts split by State Senate district boundaries. Unique identifyer (State Senate district number concatenated with precinctID) for each precinct or precinct split portion.  
 ## Precinct Changes for 2015
 ### 23 Botetourt County [1](#botetourt-county)
 - 2/24/2015 County-wide precinct realignment.  
@@ -96,7 +96,7 @@ In 2015, Virginia had 127 precincts split by State Senate district boundaries, a
 #### Botetourt County
 Hammack, L. (2015, February 24). Botetourt County reduces voting precincts to save money. Retrieved from https://www.roanoke.com/news/local/botetourt-county-reduces-voting-precincts-to-save-money/article_7202555d-fc29-5d74-b7f9-a1766175adf8.html
 #### Craig County
-Craig County Board of Supervisors. Election districts and precinct boundaries, 11–09 § (2016). New Castle, Virginia: Code of Ordinances for Craig County. Retrieved from http://craigcountyva.gov/wp-content/uploads/2018/08/Chapter-18-Elections-1.pdf
+Election districts and precinct boundaries. Craig County Code § 18-26–11 (Ord. No. 11–09, 7-7-2011). Retrieved from http://craigcountyva.gov/wp-content/uploads/2018/08/Chapter-18-Elections-1.pdf
 #### Fairfax County
 Fairfax County Board of Supervisors. (2014, November 18). 2014 Precinct and polling place changes. Retrieved from https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/01a_2015summary_of_changes.pdf
 
@@ -112,6 +112,6 @@ Letourneau, M. F. (2015). Important voting information, including Dulles Distric
 #### Alexandria City
 City of Alexandria Information and Technology Services GIS Division. (2015, February 11). Proposed creation of Charles Houston Center Precinct. Retrieved from https://www.alexandriava.gov/uploadedFiles/elections/PrecinctChange_Charles Houston Center_v2.pdf
 #### Manassas Park City
-Manassas Park City Council. Voting Places, 2–2 § (2015). Manassas Park, Virginia: Manassas Park Code of Ordinances. Retrieved from https://library.municode.com/va/manassas_park/codes/code_of_ordinances?nodeId=COCI_CH2AD_ARTIINGE_S2-2VOPL
+Voting Places. Manassas Park City Code § 2–2 (Ord. No. 15-1700-964 § 2, 2-24-15). Retrieved from https://library.municode.com/va/manassas_park/codes/code_of_ordinances?nodeId=COCI_CH2AD_ARTIINGE_S2-2VOPL
 #### Virginia Beach City
-Virginia Beach City Council. An ordinance to amend section 10-1 of the city code (2015). Virginia Beach, Virginia: Virginia Beach City Council Meeting Minutes, Item # 64662. Retrieved from http://edocs.vbgov.com/WebLink/DocView.aspx?id=49708797&dbid=0&repo=CityClerk
+Virginia Beach City Council. (March 17, 2015) Meeting Minutes Item # 64662, An ordinance to amend section 10-1 of the City Code. Retrieved from http://edocs.vbgov.com/WebLink/DocView.aspx?id=49708797&dbid=0&repo=CityClerk
