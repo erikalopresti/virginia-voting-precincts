@@ -24,7 +24,7 @@ These precinct shapefile maps reflect voting precinct boundaries for the 2016 Vi
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
-In 2016, Virginia had 23 precincts split by Congressional district boundaries. This means voters at the same location could be voting in two or three different House of Delegates races.
+In 2016, Virginia had 23 precincts split by Congressional district boundaries. This means voters at the same location could be voting in two different US House of Representatives races.
 The 2016 set of precinct shapefiles includes:
 - Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the US House of Representatives race and also the statewide races for President and Vice President, and United States Senate, which are reported by Congressional district.
 
@@ -44,6 +44,7 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 ### 95 James City County [3](#james-city-county)
 - 4/12/2016 - Berkeley D (104) precinct created from split of Berkeley A (101) precinct.
 ### 153 Prince William County [4](#prince-william-county)
+5/17/2016 - Haymarket (409) precinct renamed to Tyler (409).
 6/26/2016 - Godwin (603) precinct renamed to Hampton (603) precinct.
 ### 193 Westmoreland County [5](#westmoreland-county)
 8/8/2016 - Two new precincts created 
