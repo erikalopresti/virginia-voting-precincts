@@ -65,4 +65,4 @@ Fairfax County Office of Elections. (2017, July 11). July 2017 summary of precin
 ### Loudoun County
 Loudoun County Administrator. (2017, October 17). Loudoun election officials notify residents of precinct changes. Retrieved from https://www.loudoun.gov/Archive/ViewFile/Item/7145
 ### Richmond City
-Richmond City Council. Precinct 214, 9-73.1 § (2017). Richmond, Virginia: Code of the City of Richmond. Retrieved from https://library.municode.com/va/richmond/codes/code_of_ordinances/308539?nodeId=PTIICICO_CH9EL_ARTIIIPR_S9-73.1PR214
+Precinct 214. Richmond City Code § 9-73.1 (Ord. No. 2017-145, § 2, 9-5-2017). Retrieved from https://library.municode.com/va/richmond/codes/code_of_ordinances/308539?nodeId=PTIICICO_CH9EL_ARTIIIPR_S9-73.1PR214
