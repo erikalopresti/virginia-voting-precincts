@@ -72,16 +72,18 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 ### Bedford County
 Bedford County Code § 2 (Ord. No. O082613-10, adopted 8-26-2013). Retrieved from https://librarystage.municode.com/va/bedford_county/codes/code_of_ordinances?nodeId=COCO_CH6EL
 #### Chesterfield County
-Chesterfield County Code § 7-3 (Ord. of 5-22-13). Retrieved from https://librarystage.municode.com/va/chesterfield_county/codes/code_of_ordinances?nodeId=PTIITHCO_CH7EL_S7-3PRBOPOPL  
+Chesterfield County Code § 7-3 (Ord. of 5-22-13). Retrieved from https://librarystage.municode.com/va/chesterfield_county/codes/code_of_ordinances?nodeId=PTIITHCO_CH7EL_S7-3PRBOPOPL
+
 Chesterfield County Board of Supervisors. (2013, May 22). Board of Supervisors Minutes. Retrieved from http://chesterfieldva.granicus.com/DocumentViewer.php?file=chesterfieldva_fdfbb31e30eaeca434785b768fd0de6d.pdf&view=1
 #### Dickenson County
-Dickenson County Board of Supervisors. (2013, March 26). Meeting Minutes - Public Hearing. Retrieved from https://www.dickensonva.org/DocumentCenter/View/1658/BoS-Minutes---2013---0326---Public-Hearing  
-Dickenson County Board of Supervisors. (2013, February 23). Meeting Minutes. Retrieved from https://www.dickensonva.org/DocumentCenter/View/1655/BoS-Minutes---2013---0226  
-Dickenson County Code, Ordinance Book No. 2. (2011, August 23). Retrieved from https://dickensonva.org/DocumentCenter/View/17/Ordinance-Book-2  
+Dickenson County Board of Supervisors. (2013, February 23). Meeting Minutes. Retrieved from https://www.dickensonva.org/DocumentCenter/View/1655/BoS-Minutes---2013---0226
+
+Dickenson County Code § 2-3 (Ord. Book No. 2, 8-23-2011). Retrieved from https://dickensonva.org/DocumentCenter/View/17/Ordinance-Book-2  
 #### Fairfax County
 Fairfax County Board of Supervisors. (2013, May 23). 2013 Precinct boundary and polling place changes. Retrieved from https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/2013summary_of_changes.pdf
 #### Goochland County
-Description of precincts. Goochland County Code 2–64 § (2019). Retrieved from https://library.municode.com/va/goochland_county/codes/code_of_ordinances?nodeId=COOR_CH2AD_ARTIIBOSUSCBOEL_DIV3PRPOPL_S2-64DEPR  
+Description of precincts. Goochland County Code § 2–64 (Ord. No. 3028 § 1, 1-2-19). Retrieved from https://library.municode.com/va/goochland_county/codes/code_of_ordinances?nodeId=COOR_CH2AD_ARTIIBOSUSCBOEL_DIV3PRPOPL_S2-64DEPR
+
 Goochland County Virginia Official Electoral Map. (2013). Retrieved from https://www.goochlandva.us/DocumentCenter/View/477/Goochland-County-Voting-Districts-PDF  
 #### Lee County
 Lee County Board of Supervisors. (2013, March 19). Meeting Minutes. Retrieved from http://www.leecova.org/Minutes/2013/Minutes%203-19-13%20Regular%20Meeting.pdf
@@ -91,5 +93,6 @@ Loudoun County Board of Supervisors. (2013, April 17). Proposed Amendments to Ch
 Louisa County Board of Supervisors. (2013, July 1). Resolution 2013-113 Amendment to the Louisa County Code of Ordinances, Section 2-4 Election Precincts. Retrieved from http://louisacountyva.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=1089&MediaPosition=&ID=2405&CssClass=
 ### Bedford City
 #### Richmond City
-New Richmond Voter Districts for Richmond Virginia, as of March 9, 2012. (2012, March 9). Retrieved from http://www.richmondgov.com/content/CouncilRedistricting/documents/NewRichmondVoterDistricts3.9.2012.pdf  
-Richmond City Council. Ordinance No. 2011-215-2012-4 (2012). Richmond, Virginia: Code of the City of Richmond. Retrieved from ftp://ftp.ci.richmond.va.us/Redistricting2011/ExhibitB/Certified%20Ordinance%20No%20%202011-215-2012-4.pdf
+New Richmond Voter Districts for Richmond Virginia, as of March 9, 2012. (2012, March 9). Retrieved from http://www.richmondgov.com/content/CouncilRedistricting/documents/NewRichmondVoterDistricts3.9.2012.pdf
+
+Richmond City Code § 30-78–149 (Ord. No. 2011-215-2012-4, 1-9-2012). Retrieved from ftp://ftp.ci.richmond.va.us/Redistricting2011/ExhibitB/Certified%20Ordinance%20No%20%202011-215-2012-4.pdf
