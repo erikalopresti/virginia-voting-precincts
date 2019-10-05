@@ -53,17 +53,22 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 ### 165 Rockingham County [5](#rockingham-county)
 - 8/8/2018 - West Bridgewater (401) and East Bridgewater (406) precincts created from split of Bridgewater (401) precinct.
 ### 185 Tazewell County [6](#tazewell-county)
-- 7/28/2018..
-	- Paint Lick (303) precinct created from merger of Pounding Mill (305) and Wardell (303) precincts.  
+- 7/28/2018  
 	- Mundy Town (103) precinct created from merger of Adria (110) and Gap Store (111) precincts.  
-	- Indian Valley (101) precinct created from merger of Abbs Valley (101) and Boissevain (103) precincts.  
-### 760 Richmond City [7](#richmond-city)
+	- Indian Valley (101) precinct created from merger of Abbs Valley (101) and Boissevain (103) precincts.
+	- Paint Lick (303) precinct created from merger of Pounding Mill (305) and Wardell (303) precincts.	
+	- Raven (404) precint eliminated and merged with Richlands (401) precinct.
+### 710 Norfolk CIty [7](#norfolk-city)
+- 7-24-2018 Boundaries of Superwards changed
+	- Boundaries of Granby (101), Titustown (104), Chesterfield (405), and Ruffner Academy (411) precincts changed.
+	- Brambleton (403) precinct eliminated.
+### 760 Richmond City [8](#richmond-city)
 - 4/23/2018 - Precinct 115 created from split of Precincts 101 and 102.
-### 770 Roanoke City [8](roanoke-city)
+### 770 Roanoke City [9](roanoke-city)
 - 12/18/2017..
 	- Virginia Heights-Norwich (18) precinct dissolved and voters distributed to Old Southwest (10), Raleigh Court (11), Lee-Hi (17), Summit Hills (18), Forest Park (19), and Eureka Park (20).  
 	- Summit Hills (19), Forest Park (20), and Eureka Park (21) precincts renumbered to Summit Hills (18), Forest Park (19), and Eureka Park (20).  
-### 810 Virginia Beach City [9](#virginia-beach-city)
+### 810 Virginia Beach City [10](#virginia-beach-city)
 3/20/2018..
 	- Salem Woods (99) precinct created from split of Rosemont Forest (64) precinct.
 	- Sandbridge (100) precinct created from split of Sigma (31) precinct.
@@ -82,6 +87,8 @@ Loudoun County Board of Supervisors. (2018, March 22). Proposed Amendments to Ch
 Rockingham County Code § 6A-6–7 (Ord. No. PCO 18-10, 8-8-2018).Retrieved from https://library.municode.com/va/rockingham_county/ordinances/code_of_ordinances?nodeId=909700
 ### Tazewell County
 Boothe, C. (2018, June 25). Tazewell advancing plan to consolidate several voting precincts. Retrieved from https://www.bdtonline.com/news/local_news/tazewell-advancing-plan-to-consolidate-several-voting-precincts/article_fc26a606-168b-5d5c-a475-1b61f35a538b.html
+### Norfolk City
+Norfolk City Code § 14.1-49–62 (Ord. No. 47,294, § 5, 7-24-18). Retrieved from https://library.municode.com/va/norfolk/ordinances/code_of_ordinances?nodeId=904546
 ### Roanoke City
 Chittum, M. (2017, December 18). Roanoke City Council votes to eliminate Virginia Heights-Norwich voting precinct. Retrieved from https://www.roanoke.com/news/local/roanoke-city-council-votes-to-eliminate-virginia-heights-norwich-voting/article_a2bd900d-4709-5090-9db4-169578dfa225.html
 
