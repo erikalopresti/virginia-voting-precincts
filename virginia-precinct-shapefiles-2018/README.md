@@ -42,7 +42,7 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 - 3/12/2018
 	- Forest Fire Station #2 (306) precinct created from split of New London Academy (301) precinct.
 	- Forest Youth Athletic Association (304) renamed to The Well Church (304)
-### Henrico County [3](#henrico-county)
+### 87 Henrico County [3](#henrico-county)
 - 2/27/2018 Glenside (104) precinct eliminated and merged with Johnson (110).
 ### 107 Loudoun County [4](#loudoun-county)
 - 5/24/2018  
