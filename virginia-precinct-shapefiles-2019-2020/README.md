@@ -24,7 +24,7 @@ These precinct shapefile maps reflect voting precinct boundaries for the 2019 Vi
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
-In 2019, Virginia has 21 precincts split by Congressional district boundaries, 127 precincts split by State Senate district boundaries, and 124 precincts split by House of Delegates district boundaries. This means voters at the same location could be voting in two or three different House of Delegates races, or two different State Senate or US House of Representatives races.
+In 2019, Virginia has 21 precincts split by Congressional district boundaries, 127 precincts split by State Senate district boundaries, and 137 precincts split by House of Delegates district boundaries. This means voters at the same location could be voting in two or three different House of Delegates races, or two different State Senate or US House of Representatives races.
 The 2019 set of precinct shapefiles includes:
 - Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the 2020 US House of Representatives races, as well as the 2020 statewide races for President and Vice President, and United States Senate, which are reported by Congressional district.
 - Map of precincts including State Senate of district (SD) splits. This shapefile can be used to map the results for the 2019 Senate of Virginia election.
