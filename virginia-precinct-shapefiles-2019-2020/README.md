@@ -24,7 +24,7 @@ These precinct shapefile maps reflect voting precinct boundaries for the 2019 Vi
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
-In 2019, Virginia has 21 precincts split by Congressional district boundaries, 127 precincts split by State Senate district boundaries, and 137 precincts split by House of Delegates district boundaries. This means voters at the same location could be voting in two or three different House of Delegates races, or two different State Senate or US House of Representatives races.
+In 2019, Virginia has 21 precincts split by Congressional district boundaries, 128 precincts split by State Senate district boundaries, and 136 precincts split by House of Delegates district boundaries. This means voters at the same location could be voting in two or three different House of Delegates races, or two different State Senate or US House of Representatives races.
 The 2019 set of precinct shapefiles includes:
 - Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the 2020 US House of Representatives races, as well as the 2020 statewide races for President and Vice President, and United States Senate, which are reported by Congressional district.
 - Map of precincts including State Senate of district (SD) splits. This shapefile can be used to map the results for the 2019 Senate of Virginia election.
@@ -49,7 +49,7 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 - 12/11/2018 Colonial Trail (316) created from split of Short Pump (311) precinct, all east and south of Twin Hickory Lake Dr, Liesfield Farm Dr, and North Gayton Rd.
 - 1/30/2019 Part of Rolfe (514) precinct north of Northbury Ave and Old Oakland Rd split to join Sullivans (516) precinct.
 ### 133 Northumberland County [4](#northumberland-county)
-- 12/13/2018 Precincts 3A and 3B merged.
+- 12/13/2018 Precincts 3A (301) and 3B (302) merged into 3A (301).
 ### 153 Prince William County [5](#prince-william-county)
 - 1/8/2019
 	- Piney Branch (109) precinct renamed to Chris Yung (109).
@@ -66,6 +66,16 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Olympus Condo (309) created from split of Charles E. Beatley Library (303) and Tucker School (304) precincts.
 	- Boundary adjustment moved some voters from Cameron Station (308) to Charles E. Beatley Library (303).
 ### 550 Chesapeake City [8](#chesapeake-city)
+- 1/22/2019 City-wide precinct reorganization
+	- Waterway II (65) created from split of Waterway (49). Boundaries of Waterway (49) changed.
+	- Boundaries changed for Camelot (3) and St. Julians (25).
+	- Boundaries changed for Greenbrier (7), Hickory Middle School (34), Great Bridge Baptist Church (36), Bridgetown (37), Pleasant Crossing (43), and Centerville (61).
+	- Green Sea (47) Precinct eliminated.
+	- Boundaries changed for Bells Mill (9), Grassfield (14), Lake Drummond (39), and Shipyard Road (52).
+	- River Birch (40) Precinct eliminated.
+	- Boundaries changed for B. M. Williams (15), Parkways (42), Fairways (53), Green Tree (56), and Cypress (57).
+	- Deep Creek II (64) created from split of Deep Creek (6). Boundaries of Deep Creek (6) changed.
+	- Boundaries changed for Churchland (4), E. W. Chittum (20), Silverwood (27), and Bailey Creek (38). 
 ### 750 Radford City [9](#radford-city)
 - 11/26/2018 New River Precinct created from split of East Precinct (001).
 ### 760 Richmond City [10](#richmond-city)
