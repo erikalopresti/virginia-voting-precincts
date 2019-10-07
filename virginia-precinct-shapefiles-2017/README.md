@@ -52,7 +52,7 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Boundary adjustment transferred some voters from Tysons (731) to Rotonda (735) precinct.
 	- Newgate North (849) and Newgate South (854) precincts consolidated and renamed Newgate (849) precinct.
 ### 083 Halifax County [3](#halifax-county)
--9/5/2017 - South Boston East (801) and South Boston West (802) precincts merged and renamed South Boston (801).
+- 9/5/2017 - South Boston East (801) and South Boston West (802) precincts merged and renamed South Boston (801).
 ### 107 Loudoun County [4](#loudoun-county)
 - 6/1/2017 - Two precincts split
 	- Legacy (314) precinct split to create Stone Hill (320) precinct.
