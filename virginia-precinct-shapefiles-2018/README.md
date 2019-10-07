@@ -54,7 +54,7 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Buffalo Trail (322) precinct created from split of Pinebrook (313) precinct.  
 	- J. L. Simpson (419) precinct renamed to Sycolin Creek (422) and gained voters from Evergreen (408) precinct in boundary adjustment.  
 	- Boundary adjustment transferred some voters from Weller (623) to Ashbrook (627) precinct.
-### 141 Patrick County [6]
+### 141 Patrick County [6](#patrick-county)
 - 3/7/2018 Name of Stuart Administration (402) changed to Stuart Fairgrounds (402).
 ### 165 Rockingham County [7](#rockingham-county)
 - 8/8/2018 - West Bridgewater (401) and East Bridgewater (406) precincts created from split of Bridgewater (401) precinct.
@@ -68,7 +68,7 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 - 7-24-2018 Boundaries of Superwards changed
 	- Boundaries of Granby (101), Titustown (104), Chesterfield (405), and Ruffner Academy (411) precincts changed.
 	- Brambleton (403) precinct eliminated.
-### 740 Portsmouth City [10]
+### 740 Portsmouth City [10](#portsmouth-city)
 - 1/23/2018 Name and polling location changed for Precinct Fourteen (14) from Emily N. Spong Preschool to Brighton Elementary School (14).
 - 6/26/2018 Name and polling location changed for River Shore Baptist Church (39) to Churchland Primary and Intermediate School (39).
 - 7/24/2018 The Forward Church (22) to St Mark Deliverance Center (22).
