@@ -50,18 +50,22 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Gallows East (723) precinct created from split of Merrifield (721) precinct.
 	- Boundary adjustment transferred some voters from Tysons (731) to Rotonda (735) precinct.
 	- Newgate North (849) and Newgate South (854) precincts consolidated and renamed Newgate (849) precinct.
-### 107 Loudoun County [3](#loudoun-county)
+### 083 Halifax County [3](#halifax-county)
+-9/5/2017 - South Boston East (801) and South Boston West (802) precincts merged and renamed South Boston (801).
+### 107 Loudoun County [4](#loudoun-county)
 - 6/1/2017 - Two precincts split
 	- Legacy (314) precinct split to create Stone Hill (320) precinct.
 	- Creighton's Corner (316) precinct split to create Brambleton Middle (321) precinct.
 - 7/3/2017 - Pinebrook (313) precinct split to create John Champe (319) precinct.
-### 760 Richmond City [4](#richmond-city)
+### 760 Richmond City [5](#richmond-city)
 - 7/24/2017 - Precinct 214 created from split of Precinct 206. Some voters from 206 transferred to 208.
 ## Sources
 ### Arlington County
 Arlington County Government. Arlington County Board approves polling place, precinct changes. (December 14, 2016). Retrieved from https://newsroom.arlingtonva.us/release/arlington-county-board-approves-polling-place-precinct-changes/
 ### Fairfax County
 Fairfax County Office of Elections. (2017, July 11). July 2017 summary of precinct and polling place changes. Retrieved from https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/summary_july2017_approved.pdf
+### Halifax County
+Halifax County Code art. III, § 14-54 (Ord. No. 2017-2, §§ 4, 6, 9-5-2017). Retrieved from https://library.municode.com/va/halifax_county/codes/code_of_ordinances?nodeId=COOR_CH14EL_ARTIIIELPR_S14-54ELDI8
 ### Loudoun County
 Loudoun County Administrator. (2017, October 17). Loudoun election officials notify residents of precinct changes. Retrieved from https://www.loudoun.gov/Archive/ViewFile/Item/7145
 ### Richmond City
