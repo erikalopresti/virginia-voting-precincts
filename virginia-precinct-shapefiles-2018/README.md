@@ -37,7 +37,9 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Belfield (204) precinct merged with Jack Jouett (201) precinct.  
 	- Biscuit Run (407) precinct created from split of Cale (405) precinct.  
 	- Pantops (507) precinct created from split of Free Bridge (504) precinct.  
-	- Mechums River (606) precinct created from split of Crozet (401) and Brownsville (604) precincts.  
+	- Mechums River (606) precinct created from split of Crozet (401) and Brownsville (604) precincts.
+- 8/1/2018
+	- Name of University Hall (202) changed to University (202).
 ### 19 Bedford County [2](#bedford-county)
 - 3/12/2018
 	- Forest Fire Station #2 (306) precinct created from split of New London Academy (301) precinct.
@@ -51,26 +53,33 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Goshen Post (126) precinct created from split of Arcola (119) precinct.  
 	- Buffalo Trail (322) precinct created from split of Pinebrook (313) precinct.  
 	- J. L. Simpson (419) precinct renamed to Sycolin Creek (422) and gained voters from Evergreen (408) precinct in boundary adjustment.  
-	- Boundary adjustment transferred some voters from Weller (623) to Ashbrook (627) precinct.  
-### 165 Rockingham County [6](#rockingham-county)
+	- Boundary adjustment transferred some voters from Weller (623) to Ashbrook (627) precinct.
+### 141 Patrick County [6]
+- 3/7/2018 Name of Stuart Administration (402) changed to Stuart Fairgrounds (402).
+### 165 Rockingham County [7](#rockingham-county)
 - 8/8/2018 - West Bridgewater (401) and East Bridgewater (406) precincts created from split of Bridgewater (401) precinct.
-### 185 Tazewell County [7](#tazewell-county)
+### 185 Tazewell County [8](#tazewell-county)
 - 7/28/2018  
 	- Mundy Town (103) precinct created from merger of Adria (110) and Gap Store (111) precincts.  
 	- Indian Valley (101) precinct created from merger of Abbs Valley (101) and Boissevain (103) precincts.
 	- Paint Lick (303) precinct created from merger of Pounding Mill (305) and Wardell (303) precincts.	
 	- Raven (404) precint eliminated and merged with Richlands (401) precinct.
-### 710 Norfolk CIty [8](#norfolk-city)
+### 710 Norfolk CIty [9](#norfolk-city)
 - 7-24-2018 Boundaries of Superwards changed
 	- Boundaries of Granby (101), Titustown (104), Chesterfield (405), and Ruffner Academy (411) precincts changed.
 	- Brambleton (403) precinct eliminated.
-### 760 Richmond City [9](#richmond-city)
+### 740 Portsmouth City [10]
+- 1/23/2018 Name and polling location changed for Precinct Fourteen (14) from Emily N. Spong Preschool to Brighton Elementary School (14).
+- 6/26/2018 Name and polling location changed for River Shore Baptist Church (39) to Churchland Primary and Intermediate School (39).
+- 7/24/2018 The Forward Church (22) to St Mark Deliverance Center (22).
+- 12/11/2018 Name and polling location changed for Willett Hall (24) to The Senior Station (24) .
+### 760 Richmond City [11](#richmond-city)
 - 4/23/2018 - Precinct 115 created from split of Precincts 101 and 102.
-### 770 Roanoke City [10](roanoke-city)
+### 770 Roanoke City [12](roanoke-city)
 - 12/18/2017..
 	- Virginia Heights-Norwich (18) precinct dissolved and voters distributed to Old Southwest (10), Raleigh Court (11), Lee-Hi (17), Summit Hills (18), Forest Park (19), and Eureka Park (20).  
 	- Summit Hills (19), Forest Park (20), and Eureka Park (21) precincts renumbered to Summit Hills (18), Forest Park (19), and Eureka Park (20).  
-### 810 Virginia Beach City [11](#virginia-beach-city)
+### 810 Virginia Beach City [13](#virginia-beach-city)
 3/20/2018..
 	- Salem Woods (99) precinct created from split of Rosemont Forest (64) precinct.
 	- Sandbridge (100) precinct created from split of Sigma (31) precinct.
@@ -87,12 +96,22 @@ Carroll County Board of Supervisors. (2017, October 16). Meeting minutes. Retrie
 Henrico County Code § 9-2 (Ord. No. 1240, § 1, 2-27-2018). Retrieved from https://library.municode.com/va/henrico_county/codes/code_of_ordinances?nodeId=CD_ORD_CH9EL_S9-2PRPOPL
 ### Loudoun County
 Loudoun County Board of Supervisors. (2018, March 22). Proposed Amendments to Chapter 209 of the Codified Ordinances of Loudoun County/Voting Precincts and Polling Places. Retrieved from http://loudoun.granicus.com/MetaViewer.php?view_id=74&clip_id=5402&meta_id=139847
+### Patrick County
+Patrick County Electoral Board. (2018, March 7). Electoral Board Meeting Minutes. Retrieved from https://www.co.patrick.va.us/registrar
 ### Rockingham County
 Rockingham County Code § 6A-6–7 (Ord. No. PCO 18-10, 8-8-2018).Retrieved from https://library.municode.com/va/rockingham_county/ordinances/code_of_ordinances?nodeId=909700
 ### Tazewell County
 Boothe, C. (2018, June 25). Tazewell advancing plan to consolidate several voting precincts. Retrieved from https://www.bdtonline.com/news/local_news/tazewell-advancing-plan-to-consolidate-several-voting-precincts/article_fc26a606-168b-5d5c-a475-1b61f35a538b.html
 ### Norfolk City
 Norfolk City Code § 14.1-49–62 (Ord. No. 47,294, § 5, 7-24-18). Retrieved from https://library.municode.com/va/norfolk/ordinances/code_of_ordinances?nodeId=904546
+### Portsmouth City
+Portsmouth City Code § 10-99 (Ord. No. 2018-08 , § 1, 1-23-2018). Retrieved from https://library.municode.com/va/portsmouth/codes/code_of_ordinances?nodeId=PTIICO_CH10EL_ARTIIIVOPL_S10-99PRNO14
+
+Portsmouth City Code § 10-122 (Ord. No. 2018-48 , § 1, 6-26-2018). Retrieved from https://library.municode.com/va/portsmouth/codes/code_of_ordinances?nodeId=PTIICO_CH10EL_ARTIIIVOPL_S10-122PRNO39
+
+Portsmouth City Code § 10-105 (Ord. No. 2018-62 , § 1, 7-24-2018). Retrieved from https://library.municode.com/va/portsmouth/codes/code_of_ordinances?nodeId=PTIICO_CH10EL_ARTIIIVOPL_S10-105PRNO22
+
+Portsmouth City Code § 10-107 (Ord. No. 2018-116 , § 1, 12-11-2018). Retrieved from https://library.municode.com/va/portsmouth/codes/code_of_ordinances?nodeId=PTIICO_CH10EL_ARTIIIVOPL_S10-107PRNO24
 ### Roanoke City
 Chittum, M. (2017, December 18). Roanoke City Council votes to eliminate Virginia Heights-Norwich voting precinct. Retrieved from https://www.roanoke.com/news/local/roanoke-city-council-votes-to-eliminate-virginia-heights-norwich-voting/article_a2bd900d-4709-5090-9db4-169578dfa225.html
 
