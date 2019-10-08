@@ -41,33 +41,41 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 - 5/22/2013 Midlothian North (518) created from split of Midlothian (503).
 ### 51 Dickenson County [3](#dickenson-county)
 - 3/26/2013 Consolidation of six precincts into three
-	- Longs Fork (304) merged with Ridge (303).
-	- Colley (401) and Haysi (402) consolidated and named Haysi-Colley (401).
-	- Artrip (502) merged with North Clintwood (503).
+	- Longs Fork (304) precinct merged with Ridge (303).
+	- Colley (401) and Haysi (402) consolidated precincts and named Haysi-Colley (401).
+	- Artrip (502) precinct merged with North Clintwood (503).
 ### 59 Fairfax County [4](#fairfax-county)
 - 7/9/2013 One precinct created, one precinct renamed, boundary adjustment
-	- Plaza (509) created from split of Skyline (520).
-	- Boundary adjustment transferred some voters from Saratoga (626) to Alban (623).
-	- Dulles (904) renamed to Stonecroft (904).
+	- Plaza (509) precinct created from split of Skyline (520).
+	- Boundary adjustment transferred some voters from Saratoga (626) precinct to Alban (623).
+	- Dulles (904) precinct renamed to Stonecroft (904).
 ### 75 Goochland County [5](#goochland-county)
-- 4/26/2013 Shallow Well (401) created from split of Centerville (402).
+- 4/26/2013 Shallow Well (401) precinct created from split of Centerville (402).
 ### 105 Lee County [6](#lee-county)
 - 3/19/2013 Consolidation of six precincts into three
-	- North Jonesville (203) and South Jonesville (204) consolidated and named Jonesville (203).
-	- West Pennington (302) merged with Ben Hur (301).
-	- Stone Creek (502) merged with St. Charles (501).
-	- East Pennington (503) renamed to to Pennington Gap (502).
+	- North Jonesville (203) and South Jonesville (204) precincts consolidated and named Jonesville (203).
+	- West Pennington (302) precinct merged with Ben Hur (301).
+	- Stone Creek (502) precinct merged with St. Charles (501).
+	- East Pennington (503) precinct renamed to to Pennington Gap (502).
 ### 107 Loudoun County [7](#loudoun-county)
 - 4/17/2013 Two precincts created and one eliminated.
-	- Rehau (418)  merged with Harper Park (407).
-	- Moorefiled Station (624) created from split of Mill Run (618).
-	- Lansdowne (821) created from split of Belmont Ridge (815).
+	- Rehau (418) precinct merged with Harper Park (407).
+	- Moorefiled Station (624) precinct created from split of Mill Run (618).
+	- Lansdowne (821) precinct created from split of Belmont Ridge (815).
 ### 109 Louisa County [8](#louisa-county)
-- 7/1/2013 Elk Creek (503) created from split of Fredericks Hall (501).
-### 515 Bedford City [9](#bedford-city)
+- 7/1/2013 Elk Creek (503) precinct created from split of Fredericks Hall (501).
+### 153 Prince William County [9](#prince-william-county)
+- 5/7/2013
+	- Lodge (207) precinct renamed to Spriggs (207).
+	- Pace West (409) precinct renamed to Haymarket (409).
+### 515 Bedford City [10](#bedford-county)
 - 8/26/2013 Ward One and Ward Two eliminated in consolidation of Bedford City and Bedford County.
-### 760 Richmond City [10](#richmond-city)
+### 710 Norfolk City [11](#norfolk-city)
+- 2/26/2013 United Way (415) precinct renamed to Lake Taylor High School (415).
+### 760 Richmond City [12](#richmond-city)
 - 7/8/2013 Boundary adjusted between precincts Five Hundred Three (503) and Five Hundred Five (505).
+### 830 Williamsburg City [13](#williamsburg-city)
+- 3/14/2013 Berkeley (2) precinct precinct renamed to Matoaka (2).
 ## Sources
 ### Bedford County
 Bedford County Code § 2 (Ord. No. O082613-10, adopted 8-26-2013). Retrieved from https://librarystage.municode.com/va/bedford_county/codes/code_of_ordinances?nodeId=COCO_CH6EL
@@ -78,7 +86,7 @@ Chesterfield County Board of Supervisors. (2013, May 22). Board of Supervisors M
 #### Dickenson County
 Dickenson County Board of Supervisors. (2013, February 23). Meeting Minutes. Retrieved from https://www.dickensonva.org/DocumentCenter/View/1655/BoS-Minutes---2013---0226
 
-Dickenson County Code § 2-3 (Ord. Book No. 2, 8-23-2011). Retrieved from https://dickensonva.org/DocumentCenter/View/17/Ordinance-Book-2  
+Dickenson County Code § 2-3 (Ord. Book No. 2, 8-23-2011). Retrieved from https://dickensonva.org/DocumentCenter/View/17/Ordinance-Book-2 
 #### Fairfax County
 Fairfax County Board of Supervisors. (2013, May 23). 2013 Precinct boundary and polling place changes. Retrieved from https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/2013summary_of_changes.pdf
 #### Goochland County
@@ -91,8 +99,13 @@ Lee County Board of Supervisors. (2013, March 19). Meeting Minutes. Retrieved fr
 Loudoun County Board of Supervisors. (2013, April 17). Proposed Amendments to Chapter 209 of the Codified Ordinances of Loudoun County/Voting Precincts, Polling Places and Absentee Voting Location. Retrieved from https://www.loudoun.gov/DocumentCenter/View/86568/Item-15e---Amendments-to-Chapter-209-Voting
 #### Louisa County
 Louisa County Board of Supervisors. (2013, July 1). Resolution 2013-113 Amendment to the Louisa County Code of Ordinances, Section 2-4 Election Precincts. Retrieved from http://louisacountyva.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=1089&MediaPosition=&ID=2405&CssClass=
-### Bedford City
+#### Prince William County
+Prince William Board of County Supervisors (2013, May 7). Regular meeting agenda [resolution to change precinct polling places and names]. Retrieved from https://eservice.pwcgov.org/documents/bocs/agendas/2013/0507/8-A.pdf
+#### Nofolk City
+Norfolk City Code § 14.1-62 (Ord. No. 45,013, § 1, 2-26-13). Retrieved from https://library.municode.com/va/norfolk/codes/code_of_ordinances/194244?nodeId=COCI_CH14.1EL_ARTIIIPRBO_DIV4WA4_S14.1-62LATAHISCPR
 #### Richmond City
 New Richmond Voter Districts for Richmond Virginia, as of March 9, 2012. (2012, March 9). Retrieved from http://www.richmondgov.com/content/CouncilRedistricting/documents/NewRichmondVoterDistricts3.9.2012.pdf
 
 Richmond City Code § 30-78–149 (Ord. No. 2011-215-2012-4, 1-9-2012). Retrieved from ftp://ftp.ci.richmond.va.us/Redistricting2011/ExhibitB/Certified%20Ordinance%20No%20%202011-215-2012-4.pdf
+#### Williamsburg City
+Williamsburg City Code § 2-201 (Ord. No. 13-03, 3-14-13). Retrieved from https://library.municode.com/va/williamsburg/codes/code_of_ordinances?nodeId=PTIITHCO_CH2AD_ARTVEL_S2-201VOPR
