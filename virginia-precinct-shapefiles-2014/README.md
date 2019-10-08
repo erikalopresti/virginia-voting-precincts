@@ -35,9 +35,9 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 ## Precinct Changes for 2014
 ### 25 Brunswick County [1](#brunswick-county) 
 - 6/18/2014 Lawrenceville (501) precinct renamed to Totaro (501)
-### 121 Montgomery County [1](#montgomery-county)
+### 121 Montgomery County [2](#montgomery-county)
 6/9/2014 - Precinct F-3 (603) created from portions of Precinct F-1 (601) and Precinct G-1 (701).  
-### 152 Prince William County [2](#prince-william-county)
+### 152 Prince William County [3](#prince-william-county)
 - 3/11/2014 County-wide precinct reorganization, 14 new precincts created
 	- Boundary adjustment between Brentsville (101) and Nokesville (104).  
 	- Limestone (105) gained voters from split of Piney Branch (109).  
@@ -72,7 +72,7 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Grayson (711) created from split of Library (702).  
 	- Senate District 29 segments from Freedom (709), Rippon (706) and Porter (704) merged into Freedom (709), which was then split to create Leesylvania (712).  
 ## Sources
-### Brunswick County
+#### Brunswick County
 Brunswick County Code § 22-35 (Ord. of 6-18-2014(2), §§ 1, 2). Retrieved from https://library.municode.com/va/brunswick_county/codes/code_of_ordinances?nodeId=CO_CH22EL_ARTIIELDIPRPOPL_S22-35POPL
 #### Montgomery County
 Montgomery County Board of Supervisors. Proposed Ordinance Amending Election Districts – Create On-Campus Voting Precincts (2014). Christiansburg, Virginia. Retrieved from https://go.boarddocs.com/va/montva/Board.nsf/files/BDZLFS55A6BC/$file/2014-06-09_m.pdf
