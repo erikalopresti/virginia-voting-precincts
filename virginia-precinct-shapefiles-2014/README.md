@@ -33,6 +33,8 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 * distSplits - District splits within the precinct.
 * cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
 ## Precinct Changes for 2014
+### 25 Brunswick County [1](#brunswick-county) 
+- 6/18/2014 Lawrenceville (501) precinct renamed to Totaro (501)
 ### 121 Montgomery County [1](#montgomery-county)
 6/9/2014 - Precinct F-3 (603) created from portions of Precinct F-1 (601) and Precinct G-1 (701).  
 ### 152 Prince William County [2](#prince-william-county)
@@ -62,13 +64,16 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Stadium (510) renamed to Yates Ford (510), split and lost voters to McCoart (509).  
 	- Lynnwood (513) created from split of Old Bridge (503) precinct.  
 	- Antietam (514) created from portions of Rockledge (504) and Mohican (505).  
-	- Neabsco (611) created from split of Hampton (603).  
+	- Neabsco (611) created from split of Hampton (603).
+	- Civic Center (604) precinct renamed to Gideon (604)
 	- Porter (704) new location created from split of Rippon (706) and Freedom (709).  
 	- River Oaks (708) split to create Powells Creek (710) precinct, and part of Leesylvania (712).  
 	- Powells Creek (710) created from split of River Oaks (708).  
 	- Grayson (711) created from split of Library (702).  
 	- Senate District 29 segments from Freedom (709), Rippon (706) and Porter (704) merged into Freedom (709), which was then split to create Leesylvania (712).  
 ## Sources
+### Brunswick County
+Brunswick County Code § 22-35 (Ord. of 6-18-2014(2), §§ 1, 2). Retrieved from https://library.municode.com/va/brunswick_county/codes/code_of_ordinances?nodeId=CO_CH22EL_ARTIIELDIPRPOPL_S22-35POPL
 #### Montgomery County
 Montgomery County Board of Supervisors. Proposed Ordinance Amending Election Districts – Create On-Campus Voting Precincts (2014). Christiansburg, Virginia. Retrieved from https://go.boarddocs.com/va/montva/Board.nsf/files/BDZLFS55A6BC/$file/2014-06-09_m.pdf
 #### Prince William County
