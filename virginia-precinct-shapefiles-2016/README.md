@@ -33,6 +33,10 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 * distSplits - District splits within the precinct.
 * cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
 ## Precinct Changes for 2016
+### 1 Accomack County [1](#accomack-county)
+-5/18/2016 Two precincts merged and one renamed.
+	- Oak Hall (301) renamed to New Church (301)
+	- Onancock and Onley merged to form Nandua
 ### 41 Chesterfield County [1](#chesterfield-county)
 - 4/13/2016 - Two new precincts created.
 	- North Bird (215) precinct created from split of Bird (203) precinct.
@@ -41,6 +45,10 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 - 7/12/2016 - One new precinct created and one precinct renamed.
 	- Terraset (225) precinct renamed to Hughes (225) precinct.
 	- Rotonda (735) precinct created from split of Tysons (731) precinct.
+### 87 Henrico County
+- 8/9/2016 One new precinct and one renamed precinct.
+	- Byrd (401) renamed to Quioccasin (401)
+	- Essex Village (224) precinct created from split of Highland Gardens (211).
 ### 95 James City County [3](#james-city-county)
 - 4/12/2016 - Berkeley D (104) precinct created from split of Berkeley A (101) precinct.
 ### 153 Prince William County [4](#prince-william-county)
@@ -51,10 +59,17 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Precinct 2-2 (202) created from split of Precinct 2-1 (201).
 	- Precinct 3-2 (302) created from split of Precinct 3-1 (301).
 ## Sources
+### Accomack County
+Accomack County Board of Supervisors. (2016, May 18). "An ordinance to amend chapter 34, elections,
+article III, precincts, sec. 34-67, polling places of the Accomack County Code" [Rregular meeting agenda]. Retrieved from https://go.boarddocs.com/va/coa/Board.nsf/files/A9EUBB6965AC/$file/Polling%20Place%20Onancock%20and%20Onley%202016.pdf
+
+Some on Eastern Shore have new polling places. (2016, October 17). Retrieved from https://www.13newsnow.com/article/news/local/virginia/eastern-shore/some-on-eastern-shore-have-new-polling-places/336917741
 ### Chesterfield County
 Precinct boundaries and polling places. Chesterfield County Code § 7–3 (Ord. of 4-13-16 §1). Retrieved from https://library.municode.com/va/chesterfield_county/codes/code_of_ordinances?nodeId=PTIITHCO_CH7EL_S7-3PRBOPOPL
 ### Fairfax County
 Fairfax County Office of Elections. (2016, July 12). 2016 Precinct boundary and polling place changes. Retrieved from https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/summary_jul2016_approved.pdf
+### Henrico County
+Robinson, Elliott. (2016, August 9). Henrico supervisors approve precinct changes, firehouse proposal. Retrieved from https://www.richmond.com/news/local/henrico-supervisors-approve-precinct-changes-firehouse-proposal/article_e24e4616-b25e-5975-86ef-d57ca0246ab3.html
 ### James City County
 Magisterial Districts, Election Districts and Election Precincts. James City Code art. II § 2-4–5 (Ord. 55A-53, 4-12-16). Retrieved from https://library.municode.com/va/james_city_county/ordinances/code_of_ordinances?nodeId=766617
 ### Prince William County
