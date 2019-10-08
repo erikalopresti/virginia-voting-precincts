@@ -9,7 +9,13 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 - All maps were created in QGIS
 - Encoding: EPSG 4269
 ## Shapefiles
-[2019-2020 precincts](#tree/master/virginia-precinct-shapefiles-2019-2020)
+- [Virginia voting precincts: 2019-2020 All elections](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2019-2020)
+- [Virginia voting precincts: 2018 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2018)
+- [Virginia voting precincts: 2017 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2017)
+- [Virginia voting precincts: 2016 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2016)
+- [Virginia voting precincts: 2015 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2015)
+- [Virginia voting precincts: 2014 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2014)
+- [Virginia voting precincts: 2013 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2013)
 ### Attributes
 * precinctID - Eight digit number consisting of the county FIPS code from the US Census Bureau concatenated with the precinct code. This is a unique number for every precinct within a given election.
 * precinctCo - Precinct code. Corresponds to the VTD number in US Census Bureau files.
