@@ -1,6 +1,6 @@
 # Virginia Voting Precincts and Election Districts
 ## Virginia voting precinct maps, 2018 shapefiles
-These precinct shapefile maps reflect voting precinct boundaries for the 2018 Virginia June Primary and November General Elections...
+These precinct shapefile maps reflect voting precinct boundaries for the 2018 Virginia June Primary and November General Elections.
 
 All maps were created using [QGIS](https://www.qgis.org/en/site/).  
 Encoding: EPSG 4326. 
