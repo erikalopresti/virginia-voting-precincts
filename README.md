@@ -7,15 +7,59 @@ Precinct changes prior to each election were obtained from precinct and district
 
 Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti/virginia-voting-precincts/wiki) for more information and a full list of sources. 
 - All maps were created in QGIS
-- Encoding: EPSG 4269
-## Shapefiles
-- [Virginia voting precincts: 2019-2020 All elections](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2019-2020)
-- [Virginia voting precincts: 2018 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2018)
-- [Virginia voting precincts: 2017 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2017)
-- [Virginia voting precincts: 2016 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2016)
-- [Virginia voting precincts: 2015 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2015)
-- [Virginia voting precincts: 2014 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2014)
-- [Virginia voting precincts: 2013 November General Election](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2013)
+- Encoding: EPSG 4326
+## Full list of shapefiles
+- [Virginia voting precincts: 2019-2020](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2019-2020)
+	- va_precincts_2019_2020
+	- va_precincts_2019_clipped_shore
+	- va_precincts_2020_split_by_CD
+	- va_precincts_2019_split_by_SD
+	- va_precincts_2019_split_by_HD
+- [Virginia voting precincts: 2018](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2018)
+	- va_precincts_2018_nov_general
+	- va_precincts_2018_nov_clipped_shore
+	- va_precincts_2018_nov_split_by_CD
+	- va_precincts_2018_jun_primary (coming soon)
+- [Virginia voting precincts: 2017](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2017)
+	- va_precincts_2017_nov_general)
+	- va_precincts_2017_clipped_shore
+	- va_precincts_2017_nov_split_by_CD
+	- va_precincts_2017_nov_split_by_HD
+- [Virginia voting precincts: 2016](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2016)
+	- va_precincts_2016_nov_general
+	- va_precincts_2016_clipped_shore
+	- va_precincts_2016_nov_split_by_CD
+- [Virginia voting precincts: 2015](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2015)
+	- va_precincts_2015_nov_general
+	- va_precincts_2015_clipped_shore
+	- va_precincts_2015_nov_split_by_HD
+	- va_precincts_2015_nov_split_by_SD
+- [Virginia voting precincts: 2014](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2014)
+	- va_precincts_2014_nov_general
+	- va_precincts_2014_clipped_shore
+	- va_precincts_2014_nov_split_by_CD
+- [Virginia voting precincts: 2013](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2013)
+	- va_precincts_2013_nov_general
+	- va_precincts_2013_clipped_shore
+	- va_precincts_2013_nov_split_by_CD
+	- va_precincts_2013_nov_split_by_HD
+- [Virginia voting precincts: 2012](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2012)
+	- va_precincts_2012_nov_general
+	- va_precincts_2012_clipped_shore
+	- va_precincts_2012_nov_split_by_CD
+- Virginia voting precincts: 2011 (coming soon)
+	- va_precincts_2011_nov_general
+	- va_precincts_2011_clipped_shore
+	- va_precincts_2011_nov_split_by_HD
+	- va_precincts_2011_nov_split_by_SD
+- Virginia voting precincts: 2009-2010 (coming soon)
+	- va_precincts_2009_2010
+	- va_precincts_2009_2010_clipped_shore
+	- va_precincts_2009_2010_split_by_CD
+	- va_precincts_2009_2010_split_by_HD
+	- va_precincts_2009_2010_split_by_CD
+- Virginia magisterial districts: 2011-2020
+	- va_magisterial_districts_2011_2020
 ### Attributes
 * precinctID - Eight digit number consisting of the county FIPS code from the US Census Bureau concatenated with the precinct code. This is a unique number for every precinct within a given election.
 * precinctCo - Precinct code. Corresponds to the VTD number in US Census Bureau files.
@@ -26,8 +70,8 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 * senateDist - Senate of Virginia district current for the map year.
 * hodDist - House of Delegates district current for the map year.
 * actVoters - Number of active registered voters in the precinct (or split precinct portion) at the time of the election.
-* preUid - PrecinctUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
-* locUid - LocalityUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
+* precUid - PrecinctUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
+* localUid - LocalityUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
 * changeDate - Date of last known change to the precinct boundaries, name or number.
 * lastChange - Last known change to the precinct boundaries, name or number.
 ### Attributes for split precinct maps
