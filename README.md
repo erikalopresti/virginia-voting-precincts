@@ -33,15 +33,15 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 ***
 ## Shapefiles
 ### File Suffixes
-- **va_precincts_YYYY_nov_general** - Precinct boundaries for the YYYY November General Election 
-- **va_precincts_YYYY_jun_primary**: - Precinct boundaries for the YYYY June Primary Election
-- **va_precincts_YYYY_MON_split_by_CD** - Precincts with Congressional district splits are separate features
-- **va_precincts_YYYY_MON__split_by_SD** - Precincts with VA Senate district splits are separate features
-- **va_precincts_YYYY_MON__split_by_HD** - Precincts with VA House of Delegates district splits are separate features
+**va_precincts_YYYY_nov_general** - Precinct boundaries for the YYYY November General Election 
+**va_precincts_YYYY_jun_primary**: - Precinct boundaries for the YYYY June Primary Election
+**va_precincts_YYYY_MON_split_by_CD** - Precincts with Congressional district splits are separate features
+**va_precincts_YYYY_MON__split_by_SD** - Precincts with VA Senate district splits are separate features
+**va_precincts_YYYY_MON__split_by_HD** - Precincts with VA House of Delegates district splits are separate features
 
 YYYY = year, MON = month (nov = November General Election, jun = June Primary Election)
 ### Years and Elections available
-[Virginia Voting Precincts Repository](https://github.com/erikalopresti/virginia-voting-precincts)
+<a class="github-button" href="https://github.com/erikalopresti/virginia-voting-precincts/archive/master.zip" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-cloud-download" data-size="large" aria-label="Download erikalopresti/virginia-voting-precincts on GitHub">Download</a>
 - **2019-2020** - November General, clipped shoreline, split by CD, split by SD, split by HD
 - **2018** - November General, June Primary, clipped shoreline, split by CD
 - **2017** - November General, clipped shoreline, split by CD, split by HD
