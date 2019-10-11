@@ -3,7 +3,7 @@
 These precinct shapefile maps reflect voting precinct boundaries for the 2012 Virginia November General Elections.
 
 All maps were created using [QGIS](https://www.qgis.org/en/site/).  
-Encoding: EPSG 4326. v
+Encoding: EPSG 4326
 #### Table of Contents
 [Attributes](#attributes)  
 [Split Precinct Maps](#split-precinct-maps)  
