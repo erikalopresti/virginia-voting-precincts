@@ -33,7 +33,6 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
    
 4. [Sources](#sources)  
 
-***
 ## Shapefiles
 ### File Suffixes
 **va_precincts_YYYY_nov_general** - Precinct boundaries for the YYYY November General Election  
@@ -41,7 +40,6 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 **va_precincts_YYYY_MON_split_by_CD** - Precincts with Congressional district splits are separate features  
 **va_precincts_YYYY_MON__split_by_SD** - Precincts with VA Senate district splits are separate features  
 **va_precincts_YYYY_MON__split_by_HD** - Precincts with VA House of Delegates district splits are separate features  
-
 YYYY = year, MON = month (nov = November General Election, jun = June Primary Election)
 ### Years and Elections available
 [View repository on Github](https://github.com/erikalopresti/virginia-voting-precincts)
