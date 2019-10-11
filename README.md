@@ -55,8 +55,8 @@ YYYY = year, MON = month (nov = November General Election, jun = June Primary El
 - **2009-2010** - November General, clipped shoreline, split by CD, split by HD
 ## Attributes
 ### Shapefile attributes
-**precinctID** - Corresponds to the GEOID for VTDs in US Census Bureau files.  
-**precinctCo** - Precinct code. Corresponds to the VTDFP in US Census Bureau files.  
+**precinctID** - Corresponds to the VTDID for VTDs in US Census Bureau files.  
+**precinctCo** - Precinct code. Corresponds to the VTDST in US Census Bureau files.  
 **precinct** - Precinct name.  
 **localityCo** - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
 **locality** - Name of the locality (county or independent city).  
