@@ -2,8 +2,8 @@
 ## Virginia magisterial and election districtmaps, 2011-2020 shapefiles 
 These shapefile maps reflect magisterial or election district boundaries for Virginia board of county supervisors elections. Boundaries are current for 2011-2020.
 ![image](https://user-images.githubusercontent.com/20375915/65857072-18c55900-e331-11e9-93bf-1fdb57d6f279.png)
-* All maps created in QGIS
-* Encoding: EPSG 4269
+All maps were created using [QGIS](https://www.qgis.org/en/site/).  
+Encoding: EPSG 4326. 
 #### Table of Contents
 [Attributes](#attributes)  
 [List of magisterial and election districts](#Virginia-magisterial-and-election-districts)  
