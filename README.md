@@ -8,36 +8,59 @@ Precinct changes prior to each election were obtained from precinct and district
 Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti/virginia-voting-precincts/wiki) for more information and a full list of sources. 
 - All maps were created in QGIS
 - Encoding: EPSG 4326
+#### Table of Contents
+1. [Shapefiles](#shapefiles)
+
+   [File suffixes](#file-suffixes)  
+   [Years and Elections available](#years-and-elections-available)
+2. [Attributes](#attributes)
+
+   [Shapefile attributes](#shapefile-attributes)  
+   [Split precinct map attributes](#split-precinct-map-attributes)  
+3. [Full index of files](#full-index-of-files)  
+4. [Sources](#sources)  
 ## Shapefiles
 ### File Suffixes
-- va_precincts_YYYY_nov_general
-- va_precincts_YYYY_jun_primary
-- va_precincts_YYYY_MON_clipped_shore
-- va_precincts_YYYY_MON_split_by_CD
-- va_precincts_YYYY_MON__split_by_SD
-- va_precincts_YYYY_MON__split_by_HD
+- **va_precincts_YYYY_nov_general** - Precinct boundaries at the time of the YYYY November General Election 
+- **va_precincts_YYYY_jun_primary**: - Precinct boundaries at the time of the YYYY June Primary Election
+- **va_precincts_YYYY_MON_split_by_CD** - Precincts with Congressional district splits are separate features
+- **va_precincts_YYYY_MON__split_by_SD** - Precincts with VA Senate district splits are separate features
+- **va_precincts_YYYY_MON__split_by_HD** - Precincts with VA House of Delegates district splits are separate features
+
+YYYY = year, MON = month (nov = November General Election, jun = June Primary Election)
 ### Years and Elections available
-- 2019
+- **2019-2020** - November General, clipped shoreline, split by CD, split by SD, split by HD
+- **2018** - November General, June Primary, clipped shoreline, split by CD
+- **2017** - November General, clipped shoreline, split by CD, split by HD
+- **2016** - November General, clipped shoreline, split by CD
+- **2015** - November General, clipped shoreline, split by SD, split by HD
+- **2014** - November General, clipped shoreline, split by CD
+- **2013** - November General, clipped shoreline, split by CD, split by HD
+- **2012** - November General, clipped shoreline, split by CD
+- **2011** - November General, clipped shoreline, split by SD, split by HD
+- **2009-2010** - November General, clipped shoreline, split by CD, split by HD
 ## Attributes
-* precinctID - Eight digit number consisting of the county FIPS code from the US Census Bureau concatenated with the precinct code. This is a unique number for every precinct within a given election.
-* precinctCo - Precinct code. Corresponds to the VTD number in US Census Bureau files.
-* precinct - Precinct name.
-* localityCo - Locality code.
-* locality - Name of the locality (county or independent city)
-* congDist - Congressional district current for the map year.
-* senateDist - Senate of Virginia district current for the map year.
-* hodDist - House of Delegates district current for the map year.
-* actVoters - Number of active registered voters in the precinct (or split precinct portion) at the time of the election.
-* precUid - PrecinctUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
-* localUid - LocalityUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
-* changeDate - Date of last known change to the precinct boundaries, name or number.
-* lastChange - Last known change to the precinct boundaries, name or number.
-### Attributes for split precinct maps
-* distSplits - District splits within the precinct.
-* hdPrecinct - For maps showing precincts split by House of Delegates district boundaries. Unique identifyer (House of Delegates district number concatenated with precinctID) for each precinct or precinct split portion.
-* sdPrecinct - For maps showing precincts split by State Senate district boundaries. Unique identifyer (State Senate district number concatenated with precinctID) for each precinct or precinct split portion.
-* cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
+### Shapefile attributes
+- **precinctID** - Eight digit number consisting of the county FIPS code from the US Census Bureau concatenated with the precinct code. This is a unique number for every precinct within a given election.
+- **precinctCo** - Precinct code. Corresponds to the VTD number in US Census Bureau files.
+- **precinct** - Precinct name.
+- **localityCo** - Locality code.
+- **locality** - Name of the locality (county or independent city)
+- **congDist** - Congressional district current for the map year.
+- **senateDist** - Senate of Virginia district current for the map year.
+- **hodDist** - House of Delegates district current for the map year.
+- **actVoters** - Number of active registered voters in the precinct (or split precinct portion) at the time of the election.
+- **precUid** - PrecinctUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
+- **localUid** - LocalityUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
+- **changeDate** - Date of last known change to the precinct boundaries, name or number.
+- **lastChange** - Last known change to the precinct boundaries, name or number.
+### Split precinct map attributes
+- **distSplits** - District splits within the precinct.
+- **hdPrecinct** - For maps showing precincts split by House of Delegates district boundaries. Unique identifyer (House of Delegates district number concatenated with precinctID) for each precinct or precinct split portion.
+- **sdPrecinct** - For maps showing precincts split by State Senate district boundaries. Unique identifyer (State Senate district number concatenated with precinctID) for each precinct or precinct split portion.
+- **cdPrecinct** - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
 ## Full Index of Files
+[Virginia Voting Precincts Repository](https://github.com/erikalopresti/virginia-voting-precincts)
 #### [Virginia voting precincts: 2019-2020](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2019-2020)
 	- va_precincts_2019_2020
 	- va_precincts_2019_clipped_shore
@@ -86,6 +109,7 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 	- va_precincts_2009_2010_clipped_shore
 	- va_precincts_2009_2010_split_by_CD
 	- va_precincts_2009_2010_split_by_HD
-	- va_precincts_2009_2010_split_by_CD
 #### Virginia magisterial districts: 2011-2020
 	- va_magisterial_districts_2011_2020
+## Sources
+	- [Full list of sources](https://github.com/erikalopresti/virginia-voting-precincts/wiki/Sources)
