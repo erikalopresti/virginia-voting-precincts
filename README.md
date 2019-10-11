@@ -13,16 +13,16 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 1. [Shapefiles](#shapefiles)
 
    [File suffixes](#file-suffixes)  
-   [Years and Elections available](#years-and-elections-available)
-2. [Attributes](#attributes)
+   [Years and Elections available](#years-and-elections-available)  
+2. [Attributes](#attributes)  
 
    [Shapefile attributes](#shapefile-attributes)  
    [Split precinct map attributes](#split-precinct-map-attributes)  
-3. [Full index of files](#full-index-of-files)
+3. [Full index of files](#full-index-of-files)  
 
    [Files by year](#files-by-year)   
-   [Files by type](#files-by-type) 
-4. [Sources](#sources)
+   [Files by type](#files-by-type)  
+4. [Sources](#sources)  
 ***
 ## Shapefiles
 ### File Suffixes
