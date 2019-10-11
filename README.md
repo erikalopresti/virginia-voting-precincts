@@ -2,16 +2,17 @@
 
 # Virginia Voting Precincts and Election Districts
 
-![image](https://user-images.githubusercontent.com/20375915/66661177-93855280-ec14-11e9-9f8f-3f1621ec3c4c.png)
+![image](https://user-images.githubusercontent.com/20375915/66668948-75275300-ec24-11e9-8d7c-9a369be162c3.png)
 
 The purpose of this project is to create a database with shapefiles of Virginia voting precinct boundaries for all primary and general elections from 2009-2020.
 
 Voting district (VTD) shapefiles from the US Census Bureau were used as a baseline to create these maps. All precinct changes between each election were obtained from county and city GIS data and Codes of Ordinances, precinct and district-level voter registration statistics, and election result and turnout data from the Virginia Department of Elections.
 
-Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti/virginia-voting-precincts/wiki) for more information and a full list of sources. 
-- All maps were created in QGIS
-- Encoding: EPSG 4326
-### Table of Contents
+All maps were created in QGIS.  
+Encoding: EPSG 4326.  
+
+Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti/virginia-voting-precincts/wiki) for more information and a full list of sources.
+## Table of Contents
 1. [Shapefiles](#shapefiles)
 
    [File suffixes](#file-suffixes)  
