@@ -8,7 +8,7 @@ Precinct changes prior to each election were obtained from precinct and district
 Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti/virginia-voting-precincts/wiki) for more information and a full list of sources. 
 - All maps were created in QGIS
 - Encoding: EPSG 4326
-#### Table of Contents
+### Table of Contents
 1. [Shapefiles](#shapefiles)
 
    [File suffixes](#file-suffixes)  
@@ -17,8 +17,12 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 
    [Shapefile attributes](#shapefile-attributes)  
    [Split precinct map attributes](#split-precinct-map-attributes)  
-3. [Full index of files](#full-index-of-files)  
-4. [Sources](#sources)  
+3. [Full index of files](#full-index-of-files)
+
+   [Files by year](#files-by-year)   
+   [Files by type](#files-by-type) 
+4. [Sources](#sources)
+***
 ## Shapefiles
 ### File Suffixes
 - **va_precincts_YYYY_nov_general** - Precinct boundaries at the time of the YYYY November General Election 
@@ -29,6 +33,7 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 
 YYYY = year, MON = month (nov = November General Election, jun = June Primary Election)
 ### Years and Elections available
+[Virginia Voting Precincts Repository](https://github.com/erikalopresti/virginia-voting-precincts)
 - **2019-2020** - November General, clipped shoreline, split by CD, split by SD, split by HD
 - **2018** - November General, June Primary, clipped shoreline, split by CD
 - **2017** - November General, clipped shoreline, split by CD, split by HD
@@ -61,6 +66,7 @@ YYYY = year, MON = month (nov = November General Election, jun = June Primary El
 - **cdPrecinct** - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.
 ## Full Index of Files
 [Virginia Voting Precincts Repository](https://github.com/erikalopresti/virginia-voting-precincts)
+### Files by Year
 #### [Virginia voting precincts: 2019-2020](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2019-2020)
 	- va_precincts_2019_2020
 	- va_precincts_2019_clipped_shore
@@ -111,5 +117,16 @@ YYYY = year, MON = month (nov = November General Election, jun = June Primary El
 	- va_precincts_2009_2010_split_by_HD
 #### Virginia magisterial districts: 2011-2020
 	- va_magisterial_districts_2011_2020
+### Files by Type
+#### November General Election precincts
+	- 2019-2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009-2010
+#### June Primary Election precincts
+	- 2019, 2018
+#### Precincts split by Congressional District
+	- 2019-2020, 2018, 2017, 2016, 2014, 2013, 2012, 2009-2010
+#### Precincts split by VA Senate District
+	- 2019, 2015, 2011
+#### Precincts split by VA House of Delegates District
+	- 2019, 2017, 2015, 2013, 2011, 2009-2010
 ## Sources
 	- [Full list of sources](https://github.com/erikalopresti/virginia-voting-precincts/wiki/Sources)
