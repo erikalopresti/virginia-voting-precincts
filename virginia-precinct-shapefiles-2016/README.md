@@ -36,7 +36,7 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 **cdPrecinct** - PrecinctID prefixed by Congressional district number.  
 ## Precinct Changes for 2016
 ### 1 Accomack County [1](#accomack-county)
--5/18/2016 Two precincts merged and one renamed.
+- 5/18/2016 Two precincts merged and one renamed.
 	- Oak Hall (301) renamed to New Church (301)
 	- Onancock and Onley merged to form Nandua
 ### 41 Chesterfield County [1](#chesterfield-county)
