@@ -55,24 +55,24 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 - **2009-2010** - November General, clipped shoreline, split by CD, split by HD
 ## Attributes
 ### Shapefile attributes
-**precinctID** - Corresponds to the VTDID for VTDs in US Census Bureau files.  
-**precinctCo** - Precinct code. Corresponds to the VTDST in US Census Bureau files.  
-**precinct** - Precinct name.  
-**localityCo** - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
-**locality** - Name of the locality (county or independent city).  
-**congDist** - Congressional district current for the map year.  
-**senateDist** - Senate of Virginia district current for the map year.  
-**hodDist** - House of Delegates district current for the map year.  
-**actVoters** - Number of active registered voters in the precinct and district.  
-**precUid** - PrecinctUid given in the .csv files of Election Results from the VA Dept. of Elections.  
-**localUid** - LocalityUid given in the .csv files of Election Results from the VA Dept. of Elections.  
-**changeDate** - Date of last known change to the precinct boundaries, name or number.  
-**lastChange** - Last known change to the precinct boundaries, name or number.  
+`precinctID` - Corresponds to the VTDID for VTDs in US Census Bureau files.  
+`precinctCo` - Precinct code. Corresponds to the VTDST in US Census Bureau files.  
+`precinct` - Precinct name.  
+`localityCo` - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
+`locality` - Name of the locality (county or independent city).  
+`congDist` - Congressional district current for the map year.  
+`senateDist` - Senate of Virginia district current for the map year.  
+`hodDist` - House of Delegates district current for the map year.  
+`actVoters` - Number of active registered voters in the precinct and district.  
+`precUid` - PrecinctUid given in the .csv files of Election Results from the VA Dept. of Elections.  
+`localUid` - LocalityUid given in the .csv files of Election Results from the VA Dept. of Elections.  
+`changeDate` - Date of last known change to the precinct boundaries, name or number.  
+`lastChange` - Last known change to the precinct boundaries, name or number.  
 ### Split precinct map attributes
-**distSplits** - District splits within the precinct.  
-**cdPrecinct** - PrecinctID prefixed by Congressional district number.  
-**sdPrecinct** - PrecinctID prefixed by Senate of Virginia district number.  
-**hdPrecinct** - PrecinctID prefixed by House of Delegates district number.  
+`distSplits` - District splits within the precinct.  
+`cdPrecinct` - PrecinctID prefixed by Congressional district number.  
+`sdPrecinct` - PrecinctID prefixed by Senate of Virginia district number.  
+`hdPrecinct` - PrecinctID prefixed by House of Delegates district number.  
 ## Full Index of Files
 [View repository on Github](https://github.com/erikalopresti/virginia-voting-precincts)
 ### Files by Year
