@@ -1,8 +1,8 @@
 # Virginia Voting Precincts and Election Districts
 ## Virginia voting precinct maps, 2016 shapefiles
 These precinct shapefile maps reflect voting precinct boundaries for the 2016 Virginia November General Elections.
-* Maps created in QGIS.
-* Encoding: EPSG 4269
+All maps were created using [QGIS](https://www.qgis.org/en/site/).  
+Encoding: EPSG 4326. 
 #### Table of Contents
 [Attributes](#attributes)  
 [Split Precinct Maps](#split-precinct-maps)  
