@@ -2,7 +2,7 @@
 
 # Virginia Voting Precincts and Election Districts
 
-![image](https://user-images.githubusercontent.com/20375915/66668948-75275300-ec24-11e9-8d7c-9a369be162c3.png)
+![image](https://user-images.githubusercontent.com/20375915/66669079-bb7cb200-ec24-11e9-8396-35a913bc1846.png)
 
 The purpose of this project is to create a database with shapefiles of Virginia voting precinct boundaries for all primary and general elections from 2009-2020.
 
