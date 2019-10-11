@@ -3,7 +3,7 @@
 # Virginia Voting Precincts and Election Districts
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20375915/66669079-bb7cb200-ec24-11e9-8396-35a913bc1846.png">
+  <img src="https://user-images.githubusercontent.com/20375915/66671656-8bd0a880-ec2a-11e9-8eea-dc15ce6232b2.png">
 </p>
 
 The purpose of this project is to create a database with shapefiles of Virginia voting precinct boundaries for all primary and general elections from 2009-2020.
@@ -43,7 +43,7 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 
 YYYY = year, MON = month (nov = November General Election, jun = June Primary Election)
 ### Years and Elections available
-<a id="forkme_banner" href="{{ site.github.repository_url }}">View all files on GitHub</a>
+[View repository on Github](https://github.com/erikalopresti/virginia-voting-precincts)
 - **2019-2020** - November General, clipped shoreline, split by CD, split by SD, split by HD
 - **2018** - November General, June Primary, clipped shoreline, split by CD
 - **2017** - November General, clipped shoreline, split by CD, split by HD
@@ -75,7 +75,7 @@ YYYY = year, MON = month (nov = November General Election, jun = June Primary El
 **sdPrecinct** - PrecinctID prefixed by Senate of Virginia district number.  
 **hdPrecinct** - PrecinctID prefixed by House of Delegates district number.  
 ## Full Index of Files
-<a id="forkme_banner" href="{{ site.github.repository_url }}">View all files on GitHub</a>
+[View repository on Github](https://github.com/erikalopresti/virginia-voting-precincts)
 ### Files by Year
 #### [Virginia voting precincts: 2019-2020](https://github.com/erikalopresti/virginia-voting-precincts/tree/master/virginia-precinct-shapefiles-2019-2020)
 	va_precincts_2019_2020
