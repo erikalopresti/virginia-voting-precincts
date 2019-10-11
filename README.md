@@ -13,6 +13,7 @@ Encoding: EPSG 4326.
 
 Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti/virginia-voting-precincts/wiki) for more information and a full list of sources.
 ## Table of Contents
+
 1. [Shapefiles](#shapefiles)
 
    [File suffixes](#file-suffixes)  
