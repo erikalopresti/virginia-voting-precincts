@@ -25,20 +25,6 @@ Encoding: EPSG 4326
 **localUid** - LocalityUid given in the .csv files of Election Results from the VA Dept. of Elections.  
 **changeDate** - Date of last known change to the precinct boundaries, name or number.  
 **lastChange** - Last known change to the precinct boundaries, name or number.  
-## Attributes
-* precinctID - Eight digit number consisting of the county FIPS code from the US Census Bureau concatenated with the precinct code. This is a unique number for every precinct within a given election.
-* precinctCo - Precinct code. Corresponds to the VTD number in US Census Bureau files.
-* precinct - Precinct name.
-* localityCo - Locality code.
-* locality - Name of the locality (county or independent city)
-* congDist - Congressional district current for the map year.
-* senateDist - Senate of Virginia district current for the map year.
-* hodDist - House of Delegates district current for the map year.
-* actVoters - Number of active registered voters in the precinct (or split precinct portion) at the time of the election.
-* preUid - PrecinctUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
-* locUid - LocalityUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
-* changeDate - Date of last known change to the precinct boundaries, name or number.
-* lastChange - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
 In 2012, Virginia had 26 precincts split by Congressional district boundaries. This means voters at the same location could be voting in two different House of Representatives races.
 The 2012 set of precinct shapefiles includes:
