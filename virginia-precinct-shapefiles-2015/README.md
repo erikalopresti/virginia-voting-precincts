@@ -11,19 +11,20 @@ Encoding: EPSG 4326.
 [Sources](#sources)
 <a name="attributes"/>
 ## Attributes
-* precinctID - Eight digit number consisting of the county FIPS code from the US Census Bureau concatenated with the precinct code. This is a unique number for every precinct within a given election.
-* precinctCo - Precinct code. Corresponds to the VTD number in US Census Bureau files.
-* precinct - Precinct name.
-* localityCo - Locality code.
-* locality - Name of the locality (county or independent city)
-* congDist - Congressional district current for the map year.
-* senateDist - Senate of Virginia district current for the map year.
-* hodDist - House of Delegates district current for the map year.
-* actVoters - Number of active registered voters in the precinct (or split precinct portion) at the time of the election.
-* preUid - PrecinctUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
-* locUid - LocalityUid given in the .csv files of Individual Election Results from the Virginia Department of Elections.
-* changeDate - Date of last known change to the precinct boundaries, name or number.
-* lastChange - Last known change to the precinct boundaries, name or number.  
+### Shapefile attributes
+**precinctID** - Corresponds to the VTDID for VTDs in US Census Bureau files.  
+**precinctCo** - Precinct code. Corresponds to the VTDST in US Census Bureau files.  
+**precinct** - Precinct name.  
+**localityCo** - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
+**locality** - Name of the locality (county or independent city).  
+**congDist** - Congressional district current for the map year.  
+**senateDist** - Senate of Virginia district current for the map year.  
+**hodDist** - House of Delegates district current for the map year.  
+**actVoters** - Number of active registered voters in the precinct and district.  
+**precUid** - PrecinctUid given in the .csv files of Election Results from the VA Dept. of Elections.  
+**localUid** - LocalityUid given in the .csv files of Election Results from the VA Dept. of Elections.  
+**changeDate** - Date of last known change to the precinct boundaries, name or number.  
+**lastChange** - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
 In 2015, Virginia had 127 precincts split by State Senate district boundaries, and 129 precincts split by House of Delegates district boundaries. This means voters at the same location could be voting in two or three different House of Delegates or State Senate races.
 The 2015 set of precinct shapefiles includes:
@@ -31,11 +32,10 @@ The 2015 set of precinct shapefiles includes:
 - Map of precincts including House of Delegates district (HD) splits. This shapefile can be used to map the results for the 2015 Virginia House of Delegates election.
 
 These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and State Senate or House of Delegates district. This is useful if one wants to compare, for example, the two-party vote share in a given  election with census demographic data such as income, race, and education rates.
-### Attributes for split precinct maps
-* distSplits - District splits within the precinct.
-* cdPrecinct - For maps showing precincts split by Congressional district boundaries. Unique identifyer (Congressional district number concatenated with precinctID) for each precinct or precinct split portion.  
-* hdPrecinct - For maps showing precincts split by House of Delegates district boundaries. Unique identifyer (House of Delegates district number concatenated with precinctID) for each precinct or precinct split portion.  
-* sdPrecinct - For maps showing precincts split by State Senate district boundaries. Unique identifyer (State Senate district number concatenated with precinctID) for each precinct or precinct split portion.  
+### Split precinct map attributes
+**distSplits** - District splits within the precinct.  
+**sdPrecinct** - PrecinctID prefixed by Senate of Virginia district number.  
+**hdPrecinct** - PrecinctID prefixed by House of Delegates district number. 
 ## Precinct Changes for 2015
 ### Augusta County [1](#augusta-county)
 - 2/11/2015 Stuarts Draft Rescue (602) precinct renamed to Ridgeview (602).
