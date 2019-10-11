@@ -137,4 +137,4 @@ YYYY = year, MON = month (nov = November General Election, jun = June Primary El
 #### Precincts split by VA House of Delegates District
 	2019, 2017, 2015, 2013, 2011, 2009-2010
 ## Sources
-	- [Full list of sources](https://github.com/erikalopresti/virginia-voting-precincts/wiki/Sources)
+[Full list of sources](https://github.com/erikalopresti/virginia-voting-precincts/wiki/Sources)
