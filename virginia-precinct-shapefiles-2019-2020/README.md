@@ -1,8 +1,9 @@
 # Virginia Voting Precincts and Election Districts
 ## Virginia voting precinct maps, 2019-2020 shapefiles
 These precinct shapefile maps reflect voting precinct boundaries for the 2019 Virginia June Primary, 2019 November General, 2020 March Presidential Primary, 2020 June Primary and 2020 November General elections.
-* Maps created in QGIS.
-* Encoding: EPSG 4269
+
+All maps were created using [QGIS](https://www.qgis.org/en/site/).  
+Encoding: EPSG 4326. 
 #### Table of Contents
 [Attributes](#attributes)  
 [Split Precinct Maps](#split-precinct-maps)  
