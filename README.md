@@ -32,14 +32,15 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
    [Files by type](#files-by-type)  
    
 4. [Sources](#sources)  
+
 ***
 ## Shapefiles
 ### File Suffixes
-**va_precincts_YYYY_nov_general** - Precinct boundaries for the YYYY November General Election 
-**va_precincts_YYYY_jun_primary** - Precinct boundaries for the YYYY June Primary Election
-**va_precincts_YYYY_MON_split_by_CD** - Precincts with Congressional district splits are separate features
-**va_precincts_YYYY_MON__split_by_SD** - Precincts with VA Senate district splits are separate features
-**va_precincts_YYYY_MON__split_by_HD** - Precincts with VA House of Delegates district splits are separate features
+**va_precincts_YYYY_nov_general** - Precinct boundaries for the YYYY November General Election  
+**va_precincts_YYYY_jun_primary** - Precinct boundaries for the YYYY June Primary Election  
+**va_precincts_YYYY_MON_split_by_CD** - Precincts with Congressional district splits are separate features  
+**va_precincts_YYYY_MON__split_by_SD** - Precincts with VA Senate district splits are separate features  
+**va_precincts_YYYY_MON__split_by_HD** - Precincts with VA House of Delegates district splits are separate features  
 
 YYYY = year, MON = month (nov = November General Election, jun = June Primary Election)
 ### Years and Elections available
@@ -60,7 +61,7 @@ YYYY = year, MON = month (nov = November General Election, jun = June Primary El
 **precinctCo** - Precinct code. Corresponds to the VTDFP in US Census Bureau files.  
 **precinct** - Precinct name.  
 **localityCo** - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
-**locality** - Name of the locality (county or independent city)
+**locality** - Name of the locality (county or independent city)  
 **congDist** - Congressional district current for the map year.  
 **senateDist** - Senate of Virginia district current for the map year.  
 **hodDist** - House of Delegates district current for the map year.  
