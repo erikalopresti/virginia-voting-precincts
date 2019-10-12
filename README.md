@@ -1,10 +1,8 @@
 <meta name="google-site-verification" content="40S93IIlLJok-0QCMvjzt784RiVlVB9q2mJvrDsnfUA" />
 
-<h1 align="center"><code>Virginia Voting Precincts</code></h1>
 <p align="center">
-<img height=100  src="https://user-images.githubusercontent.com/20375915/66695942-3aa9ce80-ec95-11e9-945c-38ee19456de0.png" alt="geosnap"/>
+<img height=100  src="https://user-images.githubusercontent.com/20375915/66695942-3aa9ce80-ec95-11e9-945c-38ee19456de0.png" alt="virginia-precincts"/>
 </p>
-<h2 align="center" style="margin-top:-10px">Precinct shapefiles for Virginia Elections 2009-2020</h2>
 
 The purpose of this project is to create a database with shapefiles of Virginia voting precinct boundaries for all primary and general elections from 2009-2020.
 
