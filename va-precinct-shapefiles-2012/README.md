@@ -36,11 +36,11 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 `distSplits` - District splits within the precinct.  
 `cdPrecinct` - PrecinctID prefixed by Congressional district number.  
 ## Precinct Changes for 2012
-### 33 Caroline County
+### 33 Caroline County [1](#caroline-county)
 - 2012-07-10 
 	- Boundary between Bowling Green (101), Sparta (102), Milford (502) precincts adjusted.
 	- Boundary between Chilesburg (601) and Lake (602) precincts adjusted.
-### 107 Loudoun County
+### 107 Loudoun County [2](#loudoun-county)
 - 1/23/2012 County-wide precinct realignment
 	- Dulles South (114) lost voters to Little River (107) precinct in boundary adjustment.
 	- Arcola (119) precinct created from split of Mercer (108).
@@ -54,11 +54,13 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Ashburn Farm (818) split to form Broad Run (818) and Heritage Church (819) precincts.
 	- Belmont Station (820) created from split of Newton-Lee (814).
 	- Boundaries of Pinebrook (313), Clarkes Gap (409), Hamilton (416), Hillside (615), Eagle Ridge (616), Mill Run (618), Sully (701), Park View (702), Forest Grove (705) adjusted.
-### 153 Prince William County
+### 153 Prince William County [3](#prince-william-county)
 - 8/7/2012 Triangle (312) precinct created from split of Quantico (304).
-### 680 Lynchburg City
-
-### 710 Norfolk City
+### 610 Falls Church City [4]
+- 12/12/2011 Adjusted precinct boundaries in city-wide redistricting.
+### 680 Lynchburg City [5](#lynchburg-city)
+- 10/25/2011 City-wide precinct realignment.
+### 710 Norfolk City [6](#norfolk-city)
 - 8/16/2011
 	- Mary D. Pretlow (507) created from parts of Ocean View Center (506) and Ocean View School (102) precincts.
 	- Eliminated Oceanair Precinct (508).
@@ -77,9 +79,9 @@ These maps are the same as the voting precinct shapefiles, but where district bo
 	- Immanuel (204) eliminated and merged with Lambert's Point (207).
 	- Sherwood Recreation Center (311) and Sherwood School (312) merged to form Sherwood (311) precinct
 	- Norview Methodist (308) and Norview Middle School (309) merged to form Norview (309) precinct.
-### 760 Richmond City
+### 760 Richmond City [7](#richmond-city)
 - 3/12/2012 Amended boundaries of 34 precincts with City of Richmond Ordinance 2011-215-2012-4.
-### 800 Suffolk City
+### 800 Suffolk City [8](#suffolk-city)
 - 11/16/2011 City-wide precinct realignment.
 ## Sources
 #### Caroline County
@@ -87,7 +89,8 @@ Caroline County [Virginia] Election Districts and Precinct Boundaries. (2012, Ju
 #### Loudoun County
 Loudoun County Office of Mapping and Geographic Information. (2012, February). Election precincts [image album]. Retrieved from https://www.flickr.com/photos/omagi/albums/72157626943909849
 #### Prince William County
-### Falls Church City
+Prince William Board of County Supervisors. (2012, August 7). Resolution to approve the division of Quantico voting precinct located in the potomac magisterial district into two precincts. Retrieved from https://eservice.pwcgov.org/documents/bocs/agendas/2012/0807/8-M.pdf
+#### Falls Church City
 Code of the city of Falls Church, Virginia art. II, § 2-23–25 (Ord. No. 1870, 12-12-11). Retrieved from https://library.municode.com/va/falls_church/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD_ARTIIEL
 ### Lynchburg City
 Code of the city of Lynchburg, Virginia § 14-32–35 (Ord. No. O-11-120, 10-25-11). Retrieved from https://library.municode.com/va/lynchburg/codes/code_of_ordinances?nodeId=CH14EL_ARTIIIELPR
