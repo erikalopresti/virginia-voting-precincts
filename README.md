@@ -1,8 +1,6 @@
 <meta name="google-site-verification" content="40S93IIlLJok-0QCMvjzt784RiVlVB9q2mJvrDsnfUA" />
 
-<p align="center">
-<img height=100  src="https://user-images.githubusercontent.com/20375915/66695942-3aa9ce80-ec95-11e9-945c-38ee19456de0.png" alt="virginia-precincts"/>
-</p>
+![image](https://user-images.githubusercontent.com/20375915/66695942-3aa9ce80-ec95-11e9-945c-38ee19456de0.png)
 
 The purpose of this project is to create a database with shapefiles of Virginia voting precinct boundaries for all primary and general elections from 2009-2020.
 
