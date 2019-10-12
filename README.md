@@ -32,11 +32,11 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 ## Shapefiles
 ### File naming convention
 (YYYY = year, mon = month).  
-**va_precincts_YYYY_nov_general** - Precinct boundaries for the YYYY November General Election.  
-**va_precincts_YYYY_jun_primary** - Precinct boundaries for the YYYY June Primary Election.  
-**va_precincts_YYYY_mon_split_by_CD** - Precincts with Congressional district splits are separate features.  
-**va_precincts_YYYY_mon__split_by_SD** - Precincts with VA Senate district splits are separate features.  
-**va_precincts_YYYY_mon__split_by_HD** - Precincts with VA House of Delegates district splits are separate features.  
+`va_precincts_YYYY_nov_general` - Precinct boundaries for the YYYY November General Election.  
+`va_precincts_YYYY_jun_primary` - Precinct boundaries for the YYYY June Primary Election.  
+`va_precincts_YYYY_mon_split_by_CD` - Precincts with Congressional district splits are separate features.  
+`va_precincts_YYYY_mon__split_by_SD` - Precincts with VA Senate district splits are separate features.  
+`va_precincts_YYYY_mon__split_by_HD` - Precincts with VA House of Delegates district splits are separate features.  
 ### Years and Elections available
 [View repository on Github](https://github.com/erikalopresti/virginia-voting-precincts)
 - **2019-2020** - November General, clipped shoreline, split by CD, split by SD, split by HD
