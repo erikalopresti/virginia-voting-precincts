@@ -12,29 +12,30 @@ Encoding: EPSG 4326.
 <a name="attributes"/>
 ## Attributes
 ### Shapefile attributes
-**precinctID** - Corresponds to the VTDID for VTDs in US Census Bureau files.  
-**precinctCo** - Precinct code. Corresponds to the VTDST in US Census Bureau files.  
-**precinct** - Precinct name.  
-**localityCo** - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
-**locality** - Name of the locality (county or independent city).  
-**congDist** - Congressional district current for the map year.  
-**senateDist** - Senate of Virginia district current for the map year.  
-**hodDist** - House of Delegates district current for the map year.  
-**actVoters** - Number of active registered voters in the precinct and district.  
-**precUid** - PrecinctUid given in the .csv files of Election Results from the VA Dept. of Elections.  
-**localUid** - LocalityUid given in the .csv files of Election Results from the VA Dept. of Elections.  
-**changeDate** - Date of last known change to the precinct boundaries, name or number.  
-**lastChange** - Last known change to the precinct boundaries, name or number.  
+`precinctID` - Corresponds to the VTDID for VTDs in US Census Bureau files.  
+`precinctCo` - Precinct code. Corresponds to the VTDST in US Census Bureau files.  
+`precinct` - Precinct name.  
+`localityCo` - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
+`locality` - Name of the locality (county or independent city).  
+`congDist` - Congressional district current for the map year.  
+`senateDist` - Senate of Virginia district current for the map year.  
+`hodDist` - House of Delegates district current for the map year.  
+`actVoters` - Number of active registered voters in the precinct and district.  
+`precUid` - PrecinctUid given in the .csv files of Election Results from the VA Dept. of Elections.  
+`localUid` - LocalityUid given in the .csv files of Election Results from the VA Dept. of Elections.  
+`changeDate` - Date of last known change to the precinct boundaries, name or number.  
+`lastChange` - Last known change to the precinct boundaries, name or number.  
 
 ## Split Precinct Maps
 In 2014, Virginia had 20 precincts split by Congressional district boundaries. This means voters at the same location could be voting in two different US House of Representatives races.
 The 2014 set of precinct shapefiles includes:
-- Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the US House of Representatives race and also the statewide race United States Senate, which is reported by Congressional district.
+
+`va_precincts_2014_split_by_CD` - Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the US House of Representatives race and also the statewide race United States Senate, which is reported by Congressional district.
 
 These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and Congressional District. This is useful if one wants to compare, for example, the two-party vote share in a given  election with census demographic data such as income, race, and education rates.  
 ### Split precinct map attributes
-**distSplits** - District splits within the precinct.  
-**cdPrecinct** - PrecinctID prefixed by Congressional district number.
+`distSplits` - District splits within the precinct.  
+`cdPrecinct` - PrecinctID prefixed by Congressional district number.
 ## Precinct Changes for 2014
 ### 25 Brunswick County [1](#brunswick-county) 
 - 6/18/2014 Lawrenceville (501) precinct renamed to Totaro (501)
