@@ -96,6 +96,7 @@ Code of the city of Falls Church, Virginia art. II, § 2-23–25 (Ord. No. 1870,
 Code of the city of Lynchburg, Virginia § 14-32–35 (Ord. No. O-11-120, 10-25-11). Retrieved from https://library.municode.com/va/lynchburg/codes/code_of_ordinances?nodeId=CH14EL_ARTIIIELPR
 #### Norfolk City
 Code of the city of Norfolk, Virginia §§ 14.1-68, 70–72 (Ord. No. 44,327, 8-16-11). Retrieved from https://library.municode.com/va/norfolk/codes/code_of_ordinances?nodeId=COCI_CH14.1EL_ARTIIIPRBO_DIV5WA5_S14.1-68MAD.PRLIPR
+
 Norfolk City Code §§ § 14.1 (Ord. No. 44,568, 2-28-12). Retrieved from https://library.municode.com/va/norfolk/codes/code_of_ordinances?nodeId=COCI_CH14.1EL_ARTIIIPRBO
 #### Richmond City
 Code of the city of Richmond, Virginia § 30-78–149 (Code 2004, Ord. No. 2011-215-2012-4, 1-9-2012). Retrieved from ftp://ftp.ci.richmond.va.us/Redistricting2011/ExhibitB/Certified%20Ordinance%20No%20%202011-215-2012-4.pdf
