@@ -14,7 +14,7 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 
 1. [Shapefiles](#shapefiles)
 
-   [File suffixes](#file-suffixes)  
+   [File naming convention](#file-naming-convention)  
    [Years and Elections available](#years-and-elections-available)  
    
 2. [Attributes](#attributes)  
@@ -30,7 +30,7 @@ Please see the [Virginia Voting Precincts Wiki](https://github.com/erikalopresti
 4. [Sources](#sources)  
 
 ## Shapefiles
-### File Suffixes
+### File naming convention
 (YYYY = year, mon = month).  
 **va_precincts_YYYY_nov_general** - Precinct boundaries for the YYYY November General Election.  
 **va_precincts_YYYY_jun_primary** - Precinct boundaries for the YYYY June Primary Election.  
