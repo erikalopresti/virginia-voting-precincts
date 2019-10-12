@@ -12,30 +12,31 @@ Encoding: EPSG 4326.
 <a name="attributes"/>
 ## Attributes
 ### Shapefile attributes
-**precinctID** - Corresponds to the VTDID for VTDs in US Census Bureau files.  
-**precinctCo** - Precinct code. Corresponds to the VTDST in US Census Bureau files.  
-**precinct** - Precinct name.  
-**localityCo** - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
-**locality** - Name of the locality (county or independent city).  
-**congDist** - Congressional district current for the map year.  
-**senateDist** - Senate of Virginia district current for the map year.  
-**hodDist** - House of Delegates district current for the map year.  
-**actVoters** - Number of active registered voters in the precinct and district.  
-**precUid** - PrecinctUid given in the .csv files of Election Results from the VA Dept. of Elections.  
-**localUid** - LocalityUid given in the .csv files of Election Results from the VA Dept. of Elections.  
-**changeDate** - Date of last known change to the precinct boundaries, name or number.  
-**lastChange** - Last known change to the precinct boundaries, name or number.  
+`precinctID` - Corresponds to the VTDID for VTDs in US Census Bureau files.  
+`precinctCo` - Precinct code. Corresponds to the VTDST in US Census Bureau files.  
+`precinct` - Precinct name.  
+`localityCo` - Locality code. Corresponds to the COUNTYFP in US Census Bureau files.  
+`locality` - Name of the locality (county or independent city).  
+`congDist` - Congressional district current for the map year.  
+`senateDist` - Senate of Virginia district current for the map year.  
+`hodDist` - House of Delegates district current for the map year.  
+`actVoters` - Number of active registered voters in the precinct and district.  
+`precUid` - PrecinctUid given in the .csv files of Election Results from the VA Dept. of Elections.  
+`localUid` - LocalityUid given in the .csv files of Election Results from the VA Dept. of Elections.  
+`changeDate` - Date of last known change to the precinct boundaries, name or number.  
+`lastChange` - Last known change to the precinct boundaries, name or number.  
 ## Split Precinct Maps
 In 2013, Virginia had 23 precincts split by Congressional district boundaries, and 130 precincts split by House of Delegates district boundaries.  This means voters at the same location could be voting in two or three different House of Delegates races.
 The 2013 set of precinct shapefiles includes:
-- Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the statewide races for Governor, Lieutenant Governor, and Attorney General, which are reported by Congressional district.
-- Map of precincts including House of Delegates district (HD) splits. This shapefile can be used to map the results for the 2013 House of Delegates election.
+
+`va_precincts_2013_split_by_CD` - Map of precincts including Congressional district (CD) splits. This shapefile can be used to map the results of the statewide races for Governor, Lieutenant Governor, and Attorney General, which are reported by Congressional district.  
+`va_precincts_2013_split_by_HD` - Map of precincts including House of Delegates district (HD) splits. This shapefile can be used to map the results for the 2013 House of Delegates election.
 
 These maps are the same as the voting precinct shapefiles, but where district boundaries split a precinct, that precinct is two separate features in the shapefile. This way, election results can be mapped by both precinct and Congressional or House of Delegates district. This is useful if one wants to compare, for example, the two-party vote share in a given  election with census demographic data such as income, race, and education rates.  
 ### Split precinct map attributes
-**distSplits** - District splits within the precinct.  
-**cdPrecinct** - PrecinctID prefixed by Congressional district number.    
-**hdPrecinct** - PrecinctID prefixed by House of Delegates district number.
+`distSplits` - District splits within the precinct.  
+`cdPrecinct` - PrecinctID prefixed by Congressional district number.  
+`hdPrecinct` - PrecinctID prefixed by House of Delegates district number.
 ## Precinct Changes for 2013
 ### 19 Bedford County [1](#bedford-county)
 - 8/26/2013 County-wide precinct reorganization after Bedford City ended its independent city status and became part of Bedford County.
