@@ -4,7 +4,7 @@
 
 The purpose of this project is to create a database with shapefiles of Virginia voting precinct boundaries for all primary and general elections from 2009-2020.
 
-Voting district (VTD) shapefiles from the [US Census Bureau](https://www.census.gov/programs-surveys/geography.html) were used as a baseline to create these maps. All precinct changes between each election were obtained from county and city GIS data and Codes of Ordinances, precinct and district-level [voter registration statistics](https://www.elections.virginia.gov/resultsreports/registrationturnout-statistics/), and [election results](https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/ELECTIONRESULTS/) and [turnout data](https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/ELECTIONTURNOUT/) from the [Virginia Department of Elections](https://www.elections.virginia.gov/resultsreports/).
+Voting district (VTD) shapefiles from the [US Census Bureau](https://www.census.gov/programs-surveys/geography.html) were used as a starting point to create these maps. Data was then collected for all precinct changes between each election to make a shapefile for every year. This information was obtained from county and city GIS data and Codes of Ordinances, precinct and district-level [voter registration statistics](https://www.elections.virginia.gov/resultsreports/registrationturnout-statistics/), and [election results](https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/ELECTIONRESULTS/) and [turnout data](https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/ELECTIONTURNOUT/) from the [Virginia Department of Elections](https://www.elections.virginia.gov/resultsreports/).
 
 All maps were created using [QGIS](https://www.qgis.org/en/site/).  
 Encoding: EPSG 4326.  
